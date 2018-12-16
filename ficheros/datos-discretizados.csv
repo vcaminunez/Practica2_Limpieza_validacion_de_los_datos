@@ -1,0 +1,1600 @@
+"fixed.acidity","volatile.acidity","citric.acid","residual.sugar","chlorides","free.sulfur.dioxide","bound.sulfur.dioxide","pH","sulphates","alcohol","quality"
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Baja","Muy baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Normal","Alta","Normal","Baja","Normal","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Normal","Normal","Normal","Baja","Normal","Baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Normal","Normal","Muy baja","Baja","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Baja","Muy baja",5
+"Normal","Normal","Muy baja","Muy baja","Muy baja","Normal","Normal","Baja","Muy baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Muy baja","Normal",7
+"Normal","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Baja",7
+"Baja","Normal","Alta","Normal","Baja","Normal","Alta","Normal","Alta","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Normal","Normal","Normal","Baja","Baja","Muy baja",5
+"Baja","Normal","Alta","Normal","Baja","Normal","Alta","Normal","Alta","Normal",5
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Normal","Alta","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Baja","Baja","Baja","Muy alta","Muy baja",5
+"Normal","Alta","Baja","Baja","Alta","Muy alta","Muy alta","Muy baja","Alta","Muy baja",5
+"Normal","Alta","Baja","Baja","Alta","Muy alta","Muy alta","Muy baja","Alta","Muy baja",5
+"Normal","Muy baja","Muy alta","Muy baja","Normal","Alta","Alta","Baja","Normal","Normal",7
+"Normal","Normal","Normal","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Baja","Normal","Muy baja","Normal","Baja","Muy baja","Baja","Normal","Muy baja","Muy baja",4
+"Normal","Muy baja","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Alta","Muy baja",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Alta","Normal","Normal","Muy baja","Muy baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Normal","Baja",5
+"Normal","Baja","Normal","Muy baja","Normal","Baja","Baja","Muy baja","Alta","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Baja","Baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Baja",6
+"Muy baja","Baja","Baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Normal","Baja","Normal","Muy baja","Normal","Baja","Baja","Muy baja","Alta","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Baja","Muy baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Normal","Baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Normal","Muy baja","Alta","Baja","Normal",6
+"Normal","Alta","Baja","Muy baja","Baja","Normal","Muy alta","Muy baja","Normal","Baja",5
+"Baja","Normal","Baja","Alta","Baja","Muy alta","Normal","Alta","Muy baja","Muy baja",6
+"Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Normal","Normal","Baja","Muy baja",5
+"Normal","Alta","Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Baja","Baja",6
+"Normal","Normal","Baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Alta",6
+"Normal","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja",7
+"Muy baja","Muy alta","Baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Muy baja","Baja",4
+"Baja","Baja","Alta","Normal","Baja","Baja","Alta","Normal","Alta","Normal",5
+"Baja","Baja","Alta","Normal","Baja","Baja","Alta","Normal","Alta","Normal",5
+"Normal","Normal","Normal","Baja","Baja","Normal","Baja","Baja","Muy baja","Muy baja",4
+"Baja","Normal","Baja","Muy baja","Muy alta","Muy baja","Muy baja","Baja","Alta","Normal",6
+"Normal","Alta","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy alta","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Baja",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Alta","Muy alta","Baja","Muy alta",4
+"Baja","Muy alta","Alta","Muy baja","Normal","Normal","Muy alta","Baja","Normal","Muy baja",5
+"Normal","Muy baja","Muy alta","Muy baja","Normal","Baja","Baja","Baja","Baja","Baja",5
+"Muy baja","Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy baja",5
+"Muy baja","Muy baja","Alta","Muy baja","Baja","Baja","Alta","Normal","Baja","Muy baja",5
+"Normal","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Muy baja","Normal","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy baja",6
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy baja",6
+"Normal","Baja","Alta","Baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Baja","Normal","Baja","Baja","Normal","Alta","Normal","Muy baja","Baja","Normal",6
+"Baja","Alta","Muy baja","Baja","Baja","Alta","Baja","Normal","Muy baja","Baja",5
+"Alta","Baja","Muy alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Baja",5
+"Baja","Alta","Baja","Normal","Normal","Muy alta","Alta","Baja","Normal","Muy baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Normal","Normal","Baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Baja","Baja","Normal","Normal","Baja","Muy baja",6
+"Normal","Baja","Alta","Muy baja","Baja","Normal","Normal","Normal","Baja","Muy baja",5
+"Baja","Alta","Muy alta","Muy baja","Normal","Normal","Muy alta","Baja","Normal","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Baja",7
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Baja","Baja",5
+"Baja","Alta","Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Alta",5
+"Baja","Alta","Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Alta",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Alta","Normal","Baja","Normal","Alta",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Alta","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Baja",6
+"Baja","Alta","Normal","Muy baja","Baja","Normal","Alta","Normal","Muy baja","Baja",5
+"Baja","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Muy baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Muy baja",4
+"Alta","Muy baja","Muy alta","Muy baja","Normal","Alta","Alta","Baja","Alta","Baja",5
+"Normal","Baja","Muy alta","Muy baja","Normal","Baja","Normal","Alta","Normal","Normal",5
+"Normal","Baja","Muy alta","Muy baja","Normal","Baja","Normal","Alta","Normal","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Baja","Alta",6
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Alta","Normal","Muy baja","Normal",5
+"Normal","Alta","Baja","Muy baja","Baja","Alta","Muy alta","Muy baja","Muy alta","Muy baja",4
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy baja",5
+"Normal","Baja","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Baja","Normal","Alta","Muy baja","Baja","Normal","Normal","Normal","Baja","Muy baja",5
+"Baja","Alta","Normal","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Muy baja","Muy baja","Alta","Muy baja","Muy baja","Normal","Normal","Normal","Normal","Normal",6
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",5
+"Normal","Normal","Normal","Muy baja","Normal","Normal","Muy alta","Muy baja","Muy alta","Baja",6
+"Baja","Normal","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Normal","Alta","Muy alta","Muy baja","Muy alta","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Muy alta","Muy alta","Baja","Baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Normal","Muy alta","Muy baja","Muy alta","Baja",6
+"Normal","Normal","Normal","Muy baja","Normal","Normal","Muy alta","Muy baja","Muy alta","Baja",5
+"Baja","Normal","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Baja",5
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy alta","Normal","Muy alta","Muy baja","Normal",4
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy alta","Muy alta","Baja","Muy alta",6
+"Baja","Alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Alta","Baja","Alta",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Muy baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Baja","Baja","Baja","Muy baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Normal","Normal","Baja","Normal",6
+"Normal","Normal","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Baja","Baja","Baja","Muy baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Alta","Baja","Muy baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Alta","Baja","Muy baja","Muy baja",5
+"Normal","Baja","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Muy baja","Alta","Normal","Muy baja","Baja","Normal","Normal","Alta","Normal","Muy baja",5
+"Normal","Muy baja","Muy alta","Muy baja","Baja","Normal","Alta","Normal","Alta","Baja",6
+"Normal","Alta","Muy alta","Muy baja","Normal","Muy alta","Muy alta","Baja","Normal","Muy baja",5
+"Normal","Normal","Baja","Muy baja","Normal","Baja","Normal","Baja","Alta","Baja",5
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Muy alta","Muy baja","Normal","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Muy alta","Muy baja","Normal","Baja",5
+"Alta","Muy baja","Alta","Muy baja","Baja","Normal","Baja","Normal","Normal","Baja",6
+"Normal","Normal","Baja","Muy baja","Normal","Baja","Normal","Baja","Alta","Baja",5
+"Alta","Baja","Normal","Muy baja","Baja","Baja","Normal","Muy baja","Baja","Normal",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Normal","Normal","Baja","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Muy baja",6
+"Normal","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Normal","Normal","Alta","Normal","Baja","Muy baja",6
+"Baja","Muy alta","Baja","Muy baja","Alta","Baja","Alta","Baja","Baja","Muy baja",5
+"Normal","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Muy baja","Muy baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Alta","Normal","Muy baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Normal","Alta","Alta","Muy baja","Normal","Muy baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta",5
+"Normal","Normal","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Alta","Normal",7
+"Muy baja","Baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Muy baja",5
+"Normal","Alta","Muy alta","Muy baja","Normal","Alta","Muy alta","Baja","Normal","Muy baja",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta","Muy alta","Baja","Muy alta",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta","Muy alta","Baja","Muy alta",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Baja",6
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Baja","Baja","Baja","Baja","Baja",6
+"Normal","Alta","Baja","Muy baja","Baja","Normal","Normal","Baja","Alta","Baja",5
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Normal","Baja","Normal","Baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Baja","Normal","Alta","Baja","Muy baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Muy alta","Normal","Baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Muy alta","Normal","Baja","Baja",5
+"Normal","Alta","Baja","Muy baja","Baja","Normal","Normal","Baja","Alta","Baja",5
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Normal","Baja","Normal","Baja",5
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Normal","Muy alta","Normal","Muy alta",6
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Baja","Muy baja",5
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Normal","Muy alta","Normal","Muy alta",6
+"Normal","Alta","Muy alta","Muy baja","Normal","Alta","Muy alta","Muy baja","Baja","Muy baja",5
+"Muy baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Muy baja","Normal",5
+"Baja","Normal","Normal","Muy baja","Alta","Baja","Alta","Muy baja","Alta","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Normal","Baja","Alta","Baja","Baja","Baja","Normal","Alta","Baja","Normal",6
+"Baja","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal",6
+"Normal","Normal","Muy alta","Baja","Muy alta","Alta","Normal","Muy baja","Muy alta","Muy baja",4
+"Baja","Normal","Muy baja","Muy baja","Normal","Alta","Alta","Normal","Baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Normal","Alta","Alta","Normal","Baja","Normal",5
+"Baja","Baja","Alta","Normal","Baja","Alta","Muy alta","Normal","Normal","Normal",5
+"Baja","Baja","Alta","Normal","Baja","Alta","Muy alta","Normal","Normal","Normal",5
+"Baja","Baja","Alta","Normal","Baja","Alta","Muy alta","Normal","Normal","Normal",5
+"Baja","Baja","Alta","Normal","Baja","Alta","Muy alta","Normal","Normal","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Alta","Muy baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Muy baja",6
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Muy baja",4
+"Normal","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Normal",6
+"Baja","Normal","Normal","Alta","Baja","Muy alta","Alta","Normal","Muy baja","Muy baja",5
+"Baja","Normal","Normal","Alta","Baja","Alta","Alta","Normal","Muy baja","Muy baja",5
+"Normal","Alta","Alta","Muy baja","Normal","Baja","Alta","Baja","Baja","Baja",5
+"Baja","Alta","Baja","Muy baja","Baja","Normal","Alta","Normal","Muy baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Muy baja","Muy baja",4
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Alta","Baja","Normal",6
+"Baja","Alta","Normal","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Muy baja",4
+"Normal","Baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",6
+"Normal","Baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Normal","Baja","Alta",6
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Normal","Normal","Normal","Baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Baja",5
+"Baja","Normal","Alta","Muy baja","Baja","Muy baja","Normal","Alta","Baja","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Muy baja","Baja","Normal","Baja","Baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Muy baja","Baja","Normal","Baja","Baja","Baja",5
+"Normal","Normal","Muy alta","Muy baja","Alta","Alta","Muy alta","Muy baja","Alta","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Muy baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Alta","Alta","Baja","Muy baja",5
+"Baja","Alta","Normal","Muy baja","Baja","Muy baja","Alta","Alta","Baja","Muy baja",6
+"Normal","Muy baja","Muy alta","Muy baja","Normal","Alta","Alta","Baja","Muy baja","Baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Baja","Alta","Normal","Baja","Muy baja",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Muy alta","Baja","Baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Muy alta","Baja","Baja","Baja",5
+"Normal","Normal","Alta","Baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja",5
+"Muy baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Alta","Baja","Baja",6
+"Baja","Alta","Baja","Baja","Normal","Normal","Muy alta","Baja","Baja","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Normal","Alta","Baja","Normal",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Normal",6
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta","Alta","Muy alta",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Baja","Alta","Muy baja","Alta",4
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Normal",7
+"Normal","Baja","Alta","Muy baja","Normal","Muy alta","Muy alta","Muy baja","Alta","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Normal","Normal","Normal","Baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Normal","Baja","Normal","Baja","Muy baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Baja","Baja","Normal","Baja","Muy baja",6
+"Muy alta","Muy baja","Muy alta","Muy baja","Normal","Baja","Baja","Baja","Normal","Alta",7
+"Muy alta","Muy baja","Muy alta","Muy baja","Normal","Baja","Baja","Baja","Normal","Alta",7
+"Normal","Normal","Normal","Muy baja","Muy baja","Alta","Muy alta","Baja","Muy baja","Muy baja",5
+"Normal","Baja","Normal","Baja","Normal","Normal","Alta","Baja","Normal","Muy baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Normal",7
+"Alta","Normal","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Muy alta",6
+"Normal","Alta","Normal","Baja","Baja","Baja","Normal","Normal","Baja","Normal",6
+"Muy alta","Baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Normal",6
+"Normal","Normal","Normal","Muy baja","Muy baja","Alta","Normal","Baja","Muy baja","Normal",5
+"Normal","Alta","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Normal","Baja",6
+"Baja","Normal","Muy alta","Normal","Muy baja","Alta","Muy alta","Normal","Normal","Normal",5
+"Normal","Alta","Baja","Muy baja","Normal","Baja","Normal","Muy baja","Baja","Alta",5
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Normal","Normal","Baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Normal","Normal","Baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Normal","Baja","Alta","Muy baja","Baja","Alta","Normal","Normal","Baja","Muy baja",6
+"Baja","Normal","Normal","Muy baja","Normal","Normal","Alta","Muy baja","Baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Normal",6
+"Normal","Alta","Alta","Muy baja","Baja","Normal","Normal","Baja","Baja","Normal",4
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Normal",6
+"Normal","Normal","Muy alta","Muy baja","Muy alta","Alta","Alta","Muy baja","Muy alta","Baja",6
+"Normal","Muy alta","Baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Normal",6
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Baja","Alta","Muy baja","Alta",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy alta","Alta","Baja","Muy alta",7
+"Normal","Baja","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Baja",6
+"Normal","Baja","Baja","Baja","Baja","Normal","Normal","Normal","Normal","Baja",6
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Baja","Alta","Muy baja","Alta",5
+"Normal","Muy alta","Baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Normal","Normal","Baja","Normal","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Baja","Muy baja",6
+"Normal","Muy alta","Baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Baja","Muy baja",6
+"Normal","Alta","Alta","Muy baja","Alta","Muy baja","Alta","Muy baja","Alta","Muy baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Muy baja","Baja","Muy baja","Normal","Alta",6
+"Baja","Normal","Baja","Muy baja","Normal","Alta","Alta","Muy baja","Muy baja","Baja",6
+"Muy alta","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Muy baja",7
+"Muy alta","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Muy baja",7
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Normal","Normal","Muy baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Alta","Baja","Muy baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta","Baja",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Baja",6
+"Alta","Baja","Alta","Baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Normal",5
+"Baja","Alta","Alta","Muy baja","Normal","Muy baja","Alta","Baja","Baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Baja",6
+"Normal","Normal","Normal","Baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Alta","Normal","Muy baja",5
+"Baja","Baja","Muy alta","Muy baja","Muy alta","Muy baja","Normal","Muy baja","Muy alta","Muy baja",5
+"Alta","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Normal","Alta","Normal",7
+"Normal","Muy baja","Normal","Muy baja","Baja","Normal","Baja","Baja","Normal","Muy baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Baja","Alta","Normal","Baja","Muy baja",4
+"Normal","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",5
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Baja","Baja","Normal","Muy baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Alta",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Normal",7
+"Normal","Muy alta","Muy baja","Baja","Normal","Alta","Normal","Alta","Normal","Baja",4
+"Normal","Baja","Alta","Baja","Baja","Normal","Baja","Normal","Alta","Muy alta",8
+"Baja","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Muy alta","Alta","Muy baja",6
+"Muy alta","Muy baja","Muy alta","Baja","Normal","Muy baja","Baja","Baja","Alta","Normal",6
+"Normal","Normal","Muy baja","Baja","Baja","Alta","Normal","Normal","Normal","Alta",6
+"Muy alta","Muy baja","Muy alta","Baja","Normal","Muy baja","Baja","Baja","Alta","Normal",6
+"Alta","Baja","Muy alta","Baja","Baja","Normal","Normal","Baja","Normal","Normal",5
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Baja","Baja","Baja","Muy baja",5
+"Baja","Alta","Baja","Alta","Baja","Alta","Alta","Normal","Normal","Muy baja",5
+"Normal","Normal","Muy baja","Baja","Baja","Alta","Normal","Normal","Normal","Alta",6
+"Baja","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Muy alta","Alta","Muy baja",6
+"Muy alta","Muy baja","Muy alta","Baja","Normal","Muy baja","Baja","Baja","Alta","Normal",6
+"Alta","Muy baja","Alta","Normal","Baja","Muy baja","Muy baja","Baja","Alta","Muy alta",8
+"Normal","Baja","Normal","Normal","Baja","Baja","Normal","Normal","Normal","Normal",7
+"Muy alta","Muy baja","Alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Muy baja",6
+"Baja","Muy baja","Muy alta","Baja","Muy alta","Muy baja","Muy baja","Baja","Alta","Baja",7
+"Baja","Normal","Baja","Baja","Muy baja","Baja","Normal","Normal","Baja","Muy baja",5
+"Normal","Baja","Normal","Normal","Baja","Baja","Normal","Normal","Normal","Normal",7
+"Alta","Normal","Muy baja","Baja","Normal","Alta","Normal","Baja","Normal","Baja",5
+"Alta","Normal","Muy baja","Baja","Normal","Alta","Normal","Baja","Normal","Baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Alta","Baja","Muy baja","Normal","Normal",6
+"Baja","Baja","Baja","Baja","Normal","Alta","Baja","Normal","Normal","Normal",6
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Baja","Normal","Alta","Normal",7
+"Muy alta","Baja","Muy alta","Baja","Normal","Alta","Alta","Baja","Alta","Muy baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Normal","Baja","Normal","Alta","Normal",7
+"Alta","Muy baja","Alta","Muy baja","Muy alta","Muy baja","Muy baja","Baja","Normal","Normal",5
+"Alta","Normal","Normal","Baja","Baja","Normal","Normal","Baja","Baja","Normal",6
+"Baja","Baja","Normal","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Normal","Normal","Muy baja","Alta","Baja",6
+"Alta","Normal","Alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Baja",5
+"Alta","Muy alta","Alta","Muy baja","Baja","Alta","Normal","Muy baja","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy alta","Normal","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Baja","Muy alta","Alta","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy alta","Normal","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Alta",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Normal","Alta","Baja","Muy baja","Normal","Baja","Baja","Alta","Normal","Normal",5
+"Baja","Alta","Baja","Muy baja","Alta","Muy baja","Baja","Normal","Baja","Baja",5
+"Normal","Alta","Muy alta","Muy baja","Normal","Baja","Alta","Baja","Muy baja","Muy baja",5
+"Alta","Normal","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja",6
+"Baja","Alta","Normal","Muy baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy baja",5
+"Alta","Baja","Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja",6
+"Alta","Baja","Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja",6
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Muy baja","Baja",6
+"Alta","Normal","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja",6
+"Normal","Baja","Normal","Baja","Normal","Normal","Alta","Normal","Baja","Baja",6
+"Normal","Baja","Normal","Baja","Baja","Alta","Muy alta","Baja","Muy baja","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Normal","Alta",5
+"Baja","Baja","Normal","Muy baja","Normal","Normal","Normal","Normal","Normal","Alta",6
+"Alta","Normal","Normal","Baja","Normal","Muy alta","Alta","Baja","Normal","Normal",5
+"Alta","Alta","Baja","Baja","Baja","Alta","Normal","Baja","Baja","Normal",6
+"Alta","Alta","Alta","Baja","Baja","Normal","Normal","Normal","Normal","Alta",7
+"Alta","Alta","Baja","Baja","Baja","Alta","Normal","Baja","Baja","Normal",6
+"Alta","Alta","Alta","Baja","Baja","Normal","Normal","Normal","Normal","Alta",7
+"Alta","Normal","Normal","Baja","Baja","Alta","Alta","Baja","Baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",5
+"Alta","Normal","Alta","Baja","Baja","Alta","Normal","Baja","Normal","Baja",6
+"Alta","Normal","Baja","Alta","Baja","Baja","Normal","Muy baja","Normal","Muy baja",6
+"Alta","Normal","Baja","Alta","Baja","Baja","Normal","Muy baja","Normal","Muy baja",6
+"Muy alta","Normal","Muy alta","Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Alta",7
+"Alta","Baja","Muy alta","Normal","Normal","Muy baja","Muy baja","Baja","Alta","Alta",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Alta","Baja","Muy alta","Baja","Normal","Baja","Normal","Baja","Normal","Muy alta",6
+"Alta","Baja","Muy alta","Baja","Normal","Baja","Normal","Baja","Normal","Muy alta",6
+"Normal","Normal","Normal","Baja","Muy baja","Normal","Muy alta","Baja","Baja","Muy baja",6
+"Normal","Normal","Muy baja","Muy baja","Normal","Normal","Baja","Muy baja","Muy baja","Alta",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Normal","Alta",7
+"Muy alta","Alta","Muy alta","Baja","Normal","Muy baja","Muy baja","Muy baja","Alta","Muy alta",7
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta",6
+"Normal","Baja","Normal","Baja","Baja","Alta","Baja","Baja","Baja","Normal",5
+"Muy alta","Normal","Muy alta","Baja","Normal","Alta","Alta","Muy baja","Alta","Alta",6
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Baja","Muy baja","Muy alta","Baja",7
+"Muy alta","Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy alta","Muy baja",6
+"Alta","Baja","Alta","Baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Alta","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja",6
+"Alta","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Normal","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy alta","Baja","Alta","Alta","Baja",5
+"Baja","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Alta","Alta","Muy alta",7
+"Muy alta","Normal","Muy alta","Baja","Normal","Muy baja","Muy baja","Muy baja","Alta","Muy alta",6
+"Alta","Normal","Normal","Baja","Baja","Normal","Normal","Muy baja","Alta","Normal",6
+"Normal","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Alta","Muy baja",6
+"Alta","Alta","Normal","Baja","Normal","Normal","Baja","Baja","Alta","Baja",6
+"Normal","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Alta","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy baja",5
+"Muy alta","Normal","Muy alta","Normal","Normal","Alta","Alta","Baja","Normal","Muy alta",5
+"Muy baja","Muy baja","Alta","Muy baja","Muy baja","Muy alta","Muy alta","Baja","Baja","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Baja","Muy alta",6
+"Muy alta","Baja","Muy alta","Baja","Baja","Alta","Baja","Baja","Alta","Alta",5
+"Alta","Baja","Muy alta","Baja","Normal","Baja","Baja","Baja","Normal","Alta",7
+"Muy alta","Baja","Muy alta","Baja","Normal","Baja","Muy baja","Muy baja","Alta","Normal",7
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Baja","Normal","Muy baja","Normal","Baja",6
+"Normal","Alta","Normal","Muy baja","Normal","Baja","Alta","Baja","Normal","Muy baja",5
+"Normal","Baja","Normal","Muy baja","Baja","Normal","Baja","Normal","Alta","Baja",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Normal","Muy baja","Baja","Normal",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Normal",5
+"Muy alta","Normal","Muy alta","Normal","Baja","Muy baja","Normal","Muy baja","Normal","Normal",7
+"Alta","Baja","Muy alta","Baja","Normal","Muy baja","Muy baja","Baja","Alta","Muy alta",6
+"Muy alta","Normal","Muy alta","Normal","Baja","Muy baja","Normal","Muy baja","Normal","Normal",7
+"Alta","Normal","Muy alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy baja",5
+"Alta","Baja","Muy alta","Baja","Alta","Normal","Alta","Baja","Baja","Muy baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy alta","Muy alta",7
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta","Normal","Baja",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Normal","Alta","Muy baja",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Alta","Baja","Normal","Alta","Normal",6
+"Baja","Normal","Normal","Muy baja","Normal","Baja","Alta","Muy baja","Baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Baja","Baja","Muy baja","Normal","Muy baja","Alta","Alta",6
+"Muy alta","Normal","Muy alta","Normal","Normal","Muy baja","Muy baja","Muy baja","Alta","Muy alta",7
+"Muy alta","Baja","Muy alta","Baja","Baja","Normal","Baja","Baja","Alta","Alta",6
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy alta","Muy alta",7
+"Muy alta","Alta","Muy alta","Normal","Baja","Muy baja","Baja","Muy baja","Alta","Muy alta",6
+"Normal","Baja","Alta","Muy baja","Normal","Alta","Normal","Baja","Normal","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Baja","Alta","Muy baja",6
+"Muy alta","Baja","Muy alta","Baja","Baja","Normal","Baja","Muy baja","Alta","Normal",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Baja","Alta","Muy baja",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Baja","Alta","Muy baja",6
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Normal","Normal","Normal","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Normal","Baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Baja","Normal","Normal","Muy baja",6
+"Normal","Alta","Baja","Muy baja","Baja","Normal","Baja","Baja","Baja","Baja",6
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Normal","Muy baja",6
+"Alta","Baja","Normal","Muy baja","Normal","Normal","Normal","Baja","Normal","Normal",7
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta","Alta","Muy alta",8
+"Muy alta","Baja","Muy alta","Baja","Baja","Normal","Baja","Muy baja","Alta","Normal",6
+"Alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Baja","Baja","Muy baja","Baja",5
+"Normal","Alta","Muy alta","Muy baja","Normal","Baja","Alta","Muy baja","Baja","Muy baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Baja","Baja",5
+"Muy alta","Baja","Muy alta","Baja","Muy baja","Muy baja","Normal","Baja","Baja","Muy alta",7
+"Baja","Alta","Muy baja","Alta","Normal","Muy alta","Alta","Alta","Muy baja","Baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Normal","Alta",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Normal","Alta",6
+"Normal","Alta","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Baja","Muy baja",5
+"Baja","Alta","Muy baja","Alta","Normal","Muy alta","Alta","Alta","Muy baja","Baja",5
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Baja","Muy baja","Alta",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Normal","Normal","Muy baja","Baja","Normal",6
+"Muy alta","Normal","Muy alta","Baja","Baja","Baja","Normal","Muy baja","Baja","Normal",6
+"Baja","Alta","Muy baja","Baja","Baja","Normal","Muy baja","Baja","Baja","Muy baja",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Normal","Normal","Normal",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Alta",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Baja","Baja","Baja","Baja","Alta",7
+"Alta","Baja","Muy alta","Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Muy alta","Baja","Muy alta","Normal","Baja","Alta","Baja","Muy baja","Baja","Baja",4
+"Normal","Baja","Alta","Muy baja","Baja","Alta","Alta","Normal","Baja","Baja",6
+"Normal","Baja","Alta","Muy baja","Baja","Alta","Alta","Normal","Baja","Baja",5
+"Baja","Alta","Baja","Muy baja","Normal","Normal","Alta","Baja","Baja","Muy baja",5
+"Alta","Baja","Muy alta","Normal","Normal","Muy baja","Muy baja","Baja","Alta","Alta",7
+"Normal","Normal","Alta","Baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Normal","Alta","Normal","Normal","Normal","Alta","Muy alta","Normal","Alta","Muy baja",5
+"Alta","Normal","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Alta","Muy alta","Normal","Muy baja","Normal",5
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Muy alta","Normal","Baja",5
+"Alta","Normal","Normal","Muy baja","Baja","Alta","Normal","Baja","Normal","Muy alta",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta","Baja","Muy alta",7
+"Baja","Muy alta","Baja","Muy baja","Muy baja","Normal","Normal","Normal","Muy baja","Alta",5
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Alta",7
+"Baja","Muy alta","Baja","Muy baja","Muy baja","Normal","Normal","Normal","Muy baja","Alta",5
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta","Baja","Muy alta",7
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta","Muy baja","Alta",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Normal",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Baja","Baja","Baja","Muy baja",5
+"Muy alta","Muy alta","Muy alta","Muy baja","Baja","Baja","Baja","Muy baja","Baja","Normal",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Alta",7
+"Normal","Normal","Alta","Muy baja","Baja","Normal","Normal","Baja","Baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja",5
+"Alta","Baja","Muy alta","Baja","Baja","Normal","Normal","Muy baja","Alta","Baja",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Muy baja","Muy alta","Baja","Baja","Baja","Normal",6
+"Alta","Baja","Muy alta","Baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Alta",6
+"Alta","Baja","Muy alta","Baja","Baja","Normal","Normal","Muy baja","Alta","Baja",6
+"Baja","Alta","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Baja","Muy baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Alta","Baja",8
+"Muy alta","Baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Alta",6
+"Muy alta","Alta","Muy alta","Baja","Normal","Muy baja","Normal","Muy baja","Normal","Alta",7
+"Alta","Baja","Muy alta","Baja","Baja","Baja","Muy baja","Baja","Baja","Alta",7
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta","Muy alta",7
+"Alta","Alta","Baja","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Normal",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Alta","Normal","Muy baja","Normal","Normal",5
+"Alta","Normal","Normal","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Baja","Baja","Baja","Normal",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Normal","Baja","Muy baja","Baja","Alta",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Normal","Baja","Muy baja","Baja","Alta",6
+"Normal","Baja","Muy alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Alta","Muy baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Baja","Baja","Normal","Alta",7
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Normal","Normal","Alta","Baja","Alta",5
+"Muy alta","Alta","Muy alta","Normal","Baja","Muy baja","Muy baja","Baja","Normal","Muy alta",8
+"Normal","Normal","Alta","Muy baja","Normal","Muy baja","Baja","Normal","Baja","Normal",5
+"Normal","Alta","Normal","Baja","Normal","Alta","Normal","Baja","Baja","Baja",5
+"Alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Baja","Baja","Normal","Alta",7
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Baja","Muy baja",3
+"Normal","Baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Muy alta",5
+"Normal","Alta","Muy alta","Muy baja","Normal","Alta","Muy alta","Muy baja","Muy baja","Muy baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Alta","Muy baja","Alta","Baja","Normal","Baja","Baja","Alta","Alta","Baja",5
+"Alta","Normal","Alta","Muy baja","Muy baja","Normal","Normal","Muy baja","Normal","Alta",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja",6
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy alta","Muy baja","Baja","Baja","Baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Normal","Normal","Normal","Muy baja","Baja","Normal",5
+"Alta","Normal","Alta","Muy baja","Baja","Alta","Baja","Baja","Normal","Alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Alta","Normal","Muy baja","Alta","Normal",6
+"Alta","Baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Normal",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Baja","Alta","Muy baja",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Normal",5
+"Alta","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Normal",5
+"Alta","Alta","Baja","Baja","Baja","Muy baja","Baja","Baja","Normal","Normal",6
+"Alta","Muy baja","Alta","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Normal","Muy baja",5
+"Alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Alta",8
+"Alta","Baja","Muy alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja",5
+"Alta","Baja","Muy alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja",5
+"Alta","Baja","Muy alta","Baja","Normal","Muy baja","Baja","Muy baja","Normal","Muy alta",6
+"Alta","Alta","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal",5
+"Alta","Alta","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal",5
+"Alta","Alta","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal",6
+"Muy alta","Muy baja","Muy alta","Baja","Baja","Alta","Normal","Normal","Alta","Alta",7
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Baja","Normal","Normal","Normal",6
+"Alta","Alta","Normal","Baja","Baja","Alta","Normal","Baja","Normal","Normal",6
+"Normal","Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Normal","Alta","Muy alta",7
+"Normal","Alta","Normal","Baja","Baja","Alta","Alta","Alta","Normal","Alta",6
+"Muy baja","Baja","Normal","Alta","Muy baja","Alta","Alta","Normal","Baja","Muy alta",6
+"Alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta",8
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Baja","Normal","Normal","Muy baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Muy alta","Alta","Normal","Normal","Alta",5
+"Alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta",8
+"Normal","Alta","Normal","Baja","Baja","Alta","Alta","Alta","Normal","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Baja","Normal","Normal","Muy baja",6
+"Alta","Baja","Muy alta","Normal","Baja","Muy alta","Normal","Muy baja","Alta","Muy alta",7
+"Alta","Baja","Muy alta","Normal","Baja","Muy alta","Normal","Muy baja","Alta","Muy alta",7
+"Alta","Muy baja","Alta","Muy baja","Baja","Muy baja","Baja","Baja","Alta","Alta",7
+"Alta","Muy baja","Alta","Muy baja","Baja","Muy baja","Baja","Baja","Alta","Alta",7
+"Alta","Normal","Muy alta","Baja","Baja","Baja","Baja","Muy baja","Normal","Muy alta",7
+"Alta","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Alta","Alta",7
+"Muy alta","Alta","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja",6
+"Alta","Normal","Normal","Muy baja","Baja","Alta","Normal","Baja","Baja","Normal",6
+"Muy alta","Muy baja","Muy alta","Baja","Baja","Alta","Baja","Muy baja","Normal","Alta",7
+"Muy alta","Baja","Muy alta","Normal","Baja","Normal","Baja","Muy baja","Baja","Baja",5
+"Alta","Normal","Normal","Muy baja","Baja","Alta","Normal","Baja","Baja","Normal",6
+"Alta","Baja","Alta","Muy baja","Normal","Normal","Normal","Muy baja","Alta","Baja",6
+"Alta","Normal","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy alta",7
+"Alta","Normal","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy alta",7
+"Normal","Alta","Muy alta","Normal","Normal","Alta","Muy alta","Baja","Muy alta","Muy baja",5
+"Muy alta","Normal","Muy alta","Baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy alta",6
+"Alta","Normal","Muy alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja",3
+"Alta","Muy baja","Muy alta","Baja","Baja","Baja","Baja","Baja","Normal","Alta",6
+"Baja","Baja","Muy alta","Muy baja","Baja","Muy alta","Alta","Normal","Normal","Alta",5
+"Alta","Muy baja","Muy alta","Baja","Baja","Normal","Baja","Normal","Alta","Normal",6
+"Baja","Baja","Muy alta","Muy baja","Baja","Normal","Baja","Alta","Baja","Muy baja",5
+"Normal","Baja","Muy alta","Muy baja","Normal","Muy alta","Alta","Normal","Alta","Baja",5
+"Alta","Baja","Muy alta","Muy baja","Baja","Muy alta","Muy alta","Baja","Baja","Muy baja",5
+"Normal","Baja","Muy alta","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Alta","Alta","Normal","Baja","Normal","Alta","Baja","Baja","Normal","Baja",5
+"Baja","Baja","Muy alta","Muy baja","Baja","Muy alta","Alta","Normal","Normal","Alta",5
+"Baja","Baja","Muy alta","Muy baja","Normal","Alta","Normal","Normal","Normal","Alta",6
+"Normal","Baja","Muy alta","Muy baja","Baja","Alta","Baja","Normal","Normal","Muy baja",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Muy baja",5
+"Normal","Muy baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Alta","Normal",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Baja","Normal","Muy baja","Baja","Normal",5
+"Muy alta","Baja","Muy alta","Baja","Normal","Baja","Normal","Muy baja","Baja","Normal",5
+"Alta","Muy baja","Normal","Muy baja","Baja","Normal","Baja","Baja","Normal","Muy alta",6
+"Alta","Normal","Normal","Baja","Normal","Baja","Baja","Baja","Baja","Normal",6
+"Normal","Muy baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Alta","Normal",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Muy baja",5
+"Normal","Muy alta","Normal","Muy baja","Baja","Muy baja","Muy baja","Normal","Normal","Alta",6
+"Muy alta","Baja","Muy alta","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Muy alta",7
+"Muy alta","Normal","Muy alta","Normal","Normal","Muy baja","Muy baja","Baja","Baja","Alta",5
+"Normal","Normal","Normal","Baja","Normal","Normal","Baja","Baja","Normal","Baja",5
+"Alta","Baja","Muy alta","Normal","Muy baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Alta","Alta","Normal","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Baja",5
+"Muy alta","Alta","Normal","Muy baja","Baja","Normal","Normal","Muy baja","Normal","Alta",6
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Normal","Baja","Muy alta","Muy baja","Normal","Muy alta","Alta","Muy baja","Baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",6
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Alta","Normal","Muy baja","Normal","Normal",6
+"Normal","Normal","Muy alta","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Muy baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Baja",6
+"Alta","Baja","Normal","Baja","Normal","Baja","Normal","Baja","Normal","Normal",6
+"Alta","Baja","Normal","Baja","Normal","Baja","Normal","Muy baja","Normal","Normal",6
+"Muy baja","Muy alta","Normal","Muy baja","Muy baja","Alta","Alta","Muy alta","Baja","Alta",5
+"Muy alta","Alta","Muy alta","Baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta",5
+"Muy alta","Alta","Muy alta","Baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta",5
+"Alta","Normal","Muy alta","Normal","Normal","Baja","Muy baja","Muy baja","Baja","Alta",6
+"Muy alta","Alta","Muy alta","Baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta",5
+"Alta","Normal","Muy alta","Normal","Normal","Baja","Muy baja","Muy baja","Baja","Alta",6
+"Muy alta","Baja","Muy alta","Baja","Baja","Muy baja","Normal","Baja","Normal","Muy alta",6
+"Muy alta","Normal","Muy alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Alta",5
+"Normal","Baja","Muy alta","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Normal","Normal","Muy alta","Baja","Normal","Muy alta","Alta","Muy baja","Baja","Muy baja",5
+"Baja","Muy baja","Muy alta","Baja","Normal","Alta","Normal","Baja","Baja","Normal",6
+"Muy alta","Baja","Muy alta","Baja","Baja","Muy baja","Normal","Baja","Normal","Muy alta",6
+"Muy alta","Normal","Muy alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Alta",5
+"Normal","Alta","Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja",6
+"Normal","Alta","Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja",6
+"Alta","Normal","Muy alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Muy baja","Baja","Normal","Muy baja","Normal","Normal","Baja","Alta","Baja","Alta",6
+"Muy alta","Baja","Muy alta","Baja","Baja","Baja","Baja","Normal","Alta","Alta",6
+"Muy baja","Baja","Normal","Muy baja","Normal","Normal","Baja","Alta","Baja","Alta",6
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Baja","Muy baja","Baja","Normal",5
+"Alta","Normal","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Baja","Baja",4
+"Alta","Baja","Muy alta","Baja","Baja","Normal","Alta","Baja","Normal","Normal",6
+"Muy alta","Muy baja","Muy alta","Baja","Baja","Alta","Baja","Baja","Alta","Normal",6
+"Alta","Normal","Normal","Muy baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Normal",4
+"Normal","Baja","Muy alta","Baja","Baja","Normal","Muy alta","Baja","Baja","Baja",5
+"Normal","Baja","Muy alta","Baja","Baja","Normal","Muy alta","Baja","Baja","Baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Muy baja","Baja",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Muy baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Baja",7
+"Muy alta","Muy baja","Muy alta","Baja","Normal","Muy alta","Baja","Baja","Normal","Alta",7
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Normal","Alta","Normal","Baja",6
+"Alta","Muy baja","Muy alta","Baja","Normal","Normal","Normal","Muy baja","Alta","Normal",7
+"Baja","Alta","Normal","Muy baja","Normal","Normal","Alta","Baja","Baja","Muy baja",5
+"Muy baja","Baja","Normal","Muy baja","Muy baja","Normal","Normal","Muy alta","Normal","Muy alta",8
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal",7
+"Normal","Baja","Muy alta","Muy baja","Baja","Normal","Alta","Normal","Baja","Baja",5
+"Baja","Baja","Muy alta","Muy baja","Baja","Alta","Muy alta","Muy baja","Muy baja","Alta",6
+"Normal","Baja","Muy alta","Muy baja","Baja","Normal","Alta","Normal","Baja","Baja",5
+"Alta","Normal","Muy alta","Baja","Normal","Baja","Normal","Baja","Baja","Muy baja",5
+"Normal","Alta","Baja","Muy baja","Normal","Normal","Baja","Normal","Muy baja","Baja",5
+"Normal","Normal","Alta","Alta","Baja","Alta","Alta","Baja","Baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja",6
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Normal",6
+"Normal","Normal","Baja","Muy baja","Baja","Muy baja","Baja","Baja","Muy baja","Baja",6
+"Muy alta","Normal","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Normal","Muy alta","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Muy baja","Normal",4
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Baja","Baja","Muy baja","Baja","Muy baja",6
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Baja","Baja","Muy baja","Baja","Muy baja",6
+"Normal","Normal","Baja","Baja","Normal","Baja","Normal","Muy baja","Baja","Muy baja",6
+"Normal","Normal","Baja","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Muy baja",6
+"Alta","Baja","Alta","Normal","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Normal","Alta","Baja","Normal","Alta","Baja","Baja","Muy baja","Normal",6
+"Alta","Alta","Alta","Normal","Normal","Baja","Alta","Normal","Baja","Normal",6
+"Muy baja","Baja","Baja","Baja","Baja","Normal","Baja","Alta","Muy baja","Muy alta",6
+"Normal","Muy baja","Muy alta","Muy baja","Baja","Alta","Normal","Normal","Baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Normal",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja",5
+"Normal","Alta","Baja","Muy baja","Normal","Baja","Muy alta","Muy baja","Muy alta","Normal",6
+"Alta","Normal","Muy alta","Muy baja","Baja","Alta","Normal","Alta","Baja","Baja",5
+"Alta","Normal","Muy alta","Muy baja","Baja","Alta","Normal","Alta","Baja","Baja",5
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Baja",6
+"Muy alta","Baja","Muy alta","Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Normal",5
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Muy baja",5
+"Normal","Normal","Normal","Baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja",5
+"Normal","Normal","Normal","Baja","Baja","Baja","Muy alta","Baja","Baja","Muy baja",5
+"Alta","Normal","Normal","Muy baja","Baja","Baja","Baja","Muy baja","Baja","Baja",5
+"Normal","Normal","Normal","Baja","Baja","Normal","Baja","Alta","Alta","Muy alta",6
+"Baja","Alta","Muy baja","Normal","Normal","Normal","Normal","Alta","Normal","Normal",5
+"Baja","Alta","Muy baja","Normal","Normal","Normal","Normal","Alta","Normal","Normal",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Baja","Baja","Baja","Muy baja",6
+"Baja","Alta","Normal","Muy baja","Normal","Normal","Alta","Baja","Baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Baja","Baja","Baja","Muy baja",6
+"Alta","Muy baja","Muy alta","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Baja","Baja","Baja","Baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Alta","Muy alta","Normal","Baja","Normal","Baja","Alta","Normal","Baja","Alta",4
+"Normal","Baja","Normal","Muy baja","Baja","Muy alta","Alta","Baja","Baja","Baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Baja","Baja","Baja",5
+"Alta","Muy alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Muy baja",5
+"Alta","Muy alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Muy baja",5
+"Baja","Muy alta","Baja","Muy baja","Normal","Muy baja","Baja","Normal","Normal","Normal",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Alta","Normal","Baja","Muy alta","Normal",6
+"Alta","Normal","Alta","Muy baja","Baja","Normal","Baja","Normal","Baja","Muy baja",5
+"Alta","Normal","Alta","Muy baja","Baja","Normal","Normal","Alta","Baja","Baja",5
+"Alta","Normal","Alta","Muy baja","Baja","Normal","Baja","Normal","Baja","Muy baja",5
+"Alta","Normal","Alta","Muy baja","Baja","Normal","Normal","Alta","Baja","Baja",5
+"Alta","Normal","Alta","Muy baja","Baja","Normal","Baja","Normal","Baja","Muy baja",5
+"Normal","Alta","Baja","Normal","Normal","Muy baja","Muy baja","Normal","Normal","Normal",7
+"Baja","Alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Alta",4
+"Normal","Normal","Normal","Baja","Muy baja","Baja","Baja","Normal","Normal","Alta",7
+"Baja","Baja","Normal","Alta","Muy baja","Alta","Muy alta","Muy baja","Baja","Alta",6
+"Alta","Baja","Alta","Muy baja","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Alta","Muy alta","Normal","Muy baja","Normal","Alta","Muy alta","Normal","Normal","Alta",5
+"Muy alta","Baja","Muy alta","Alta","Normal","Normal","Normal","Muy baja","Alta","Muy alta",5
+"Alta","Muy baja","Muy alta","Baja","Baja","Baja","Baja","Muy baja","Baja","Muy alta",6
+"Normal","Baja","Alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Alta","Normal","Baja","Baja","Baja","Normal","Normal","Muy baja","Baja","Muy baja",5
+"Alta","Baja","Alta","Muy baja","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Muy alta","Normal","Muy alta","Muy baja","Baja","Alta","Baja","Muy baja","Normal","Normal",7
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Alta","Baja",6
+"Baja","Muy alta","Muy baja","Normal","Normal","Muy baja","Muy baja","Normal","Baja","Alta",4
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Alta","Baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Baja","Baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Normal","Baja",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal",6
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Normal","Normal","Muy baja","Normal","Normal",5
+"Alta","Normal","Baja","Muy baja","Baja","Alta","Baja","Muy baja","Baja","Baja",5
+"Normal","Normal","Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja",6
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Alta","Alta","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Baja","Alta",5
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Muy baja","Baja","Baja","Normal",5
+"Normal","Alta","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",5
+"Alta","Muy alta","Alta","Muy baja","Baja","Alta","Muy alta","Muy baja","Muy baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Normal",5
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja",6
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Baja",5
+"Normal","Alta","Baja","Muy baja","Baja","Muy alta","Normal","Alta","Muy baja","Normal",5
+"Alta","Muy baja","Alta","Baja","Muy baja","Normal","Baja","Muy baja","Baja","Baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Normal","Baja","Muy baja","Muy baja","Muy baja",5
+"Normal","Baja","Normal","Muy baja","Normal","Normal","Muy baja","Baja","Muy baja","Normal",6
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Baja","Normal","Baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Alta","Muy alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Muy baja",5
+"Normal","Alta","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Muy baja",5
+"Normal","Alta","Normal","Baja","Normal","Baja","Baja","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Muy baja",5
+"Normal","Baja","Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Alta","Muy baja",5
+"Baja","Muy alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Muy alta","Baja","Alta",3
+"Normal","Muy alta","Normal","Muy baja","Baja","Baja","Alta","Alta","Baja","Baja",5
+"Normal","Normal","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Normal","Normal","Normal","Baja","Baja","Normal","Muy alta","Normal","Baja","Muy baja",5
+"Normal","Baja","Normal","Baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta","Baja","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Normal","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Normal","Baja",6
+"Alta","Normal","Normal","Baja","Baja","Normal","Alta","Baja","Muy baja","Baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Alta",6
+"Alta","Muy alta","Alta","Baja","Baja","Alta","Alta","Muy baja","Baja","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Normal","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Normal","Muy baja",6
+"Baja","Baja","Alta","Muy baja","Baja","Normal","Alta","Normal","Normal","Baja",4
+"Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Baja",4
+"Normal","Muy alta","Baja","Normal","Baja","Baja","Normal","Normal","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Muy baja","Normal",5
+"Baja","Normal","Baja","Baja","Baja","Normal","Baja","Normal","Muy baja","Normal",5
+"Normal","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Alta",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Normal",6
+"Alta","Muy alta","Alta","Baja","Baja","Normal","Alta","Muy baja","Baja","Normal",5
+"Normal","Normal","Alta","Baja","Normal","Normal","Muy alta","Normal","Baja","Baja",5
+"Normal","Alta","Muy baja","Baja","Baja","Baja","Baja","Normal","Muy baja","Muy baja",5
+"Normal","Baja","Alta","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Muy baja",5
+"Alta","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Muy baja","Baja",5
+"Baja","Normal","Baja","Baja","Muy baja","Baja","Baja","Baja","Muy baja","Muy baja",6
+"Normal","Baja","Alta","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Muy baja",5
+"Baja","Baja","Baja","Muy baja","Baja","Baja","Normal","Baja","Baja","Normal",5
+"Normal","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Baja","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Baja","Baja","Normal","Baja","Alta","Baja","Baja",5
+"Normal","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Baja","Muy baja","Baja",5
+"Normal","Normal","Normal","Baja","Normal","Alta","Alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Baja","Muy baja","Baja","Baja","Normal","Normal","Baja","Baja","Normal",5
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Muy alta","Muy baja","Muy alta","Baja",5
+"Baja","Muy alta","Baja","Baja","Baja","Muy baja","Muy baja","Alta","Baja","Alta",4
+"Normal","Alta","Baja","Baja","Baja","Muy baja","Muy baja","Baja","Baja","Normal",5
+"Normal","Alta","Baja","Baja","Baja","Normal","Normal","Normal","Normal","Alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Normal","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Normal","Baja",5
+"Muy baja","Muy alta","Muy baja","Baja","Baja","Alta","Normal","Alta","Muy baja","Muy alta",6
+"Alta","Normal","Muy alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Normal","Baja",5
+"Normal","Muy alta","Baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Alta",5
+"Baja","Muy alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Muy baja","Baja",5
+"Baja","Baja","Alta","Baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Normal","Alta","Baja","Muy baja",5
+"Baja","Muy alta","Baja","Muy baja","Normal","Baja","Muy baja","Baja","Muy baja","Baja",5
+"Baja","Muy alta","Baja","Muy baja","Normal","Baja","Muy baja","Baja","Muy baja","Baja",5
+"Normal","Normal","Muy baja","Muy baja","Normal","Normal","Normal","Alta","Normal","Muy baja",6
+"Normal","Baja","Normal","Baja","Normal","Alta","Alta","Muy baja","Baja","Muy baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Muy baja",5
+"Normal","Alta","Normal","Baja","Baja","Baja","Muy baja","Alta","Normal","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Normal","Muy baja",5
+"Muy alta","Baja","Muy alta","Baja","Normal","Alta","Alta","Muy baja","Muy baja","Normal",5
+"Alta","Baja","Muy alta","Baja","Normal","Normal","Alta","Muy baja","Muy baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",6
+"Normal","Baja","Alta","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Muy baja",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Normal","Normal","Baja","Muy baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",6
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",6
+"Normal","Alta","Baja","Baja","Baja","Normal","Baja","Baja","Baja","Baja",5
+"Normal","Alta","Baja","Baja","Baja","Normal","Baja","Baja","Baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Normal","Alta","Normal","Normal","Baja","Muy baja",5
+"Normal","Alta","Baja","Baja","Baja","Normal","Baja","Baja","Baja","Baja",5
+"Normal","Normal","Muy alta","Muy baja","Muy alta","Baja","Baja","Muy baja","Alta","Muy baja",6
+"Normal","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta","Muy baja","Alta",6
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta","Muy baja","Alta",6
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Baja","Baja","Baja","Muy baja","Baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Baja","Baja","Baja","Muy baja","Baja",5
+"Normal","Baja","Normal","Muy baja","Normal","Alta","Alta","Baja","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Baja","Baja","Baja","Muy alta","Baja","Baja","Baja",5
+"Alta","Alta","Normal","Muy baja","Normal","Muy baja","Normal","Baja","Muy baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal",6
+"Alta","Alta","Normal","Muy baja","Normal","Muy baja","Normal","Baja","Muy baja","Baja",5
+"Normal","Alta","Baja","Baja","Normal","Baja","Normal","Baja","Baja","Baja",6
+"Normal","Alta","Baja","Baja","Baja","Baja","Normal","Baja","Baja","Baja",6
+"Normal","Normal","Baja","Baja","Baja","Baja","Alta","Muy baja","Baja","Muy baja",5
+"Baja","Normal","Normal","Baja","Normal","Baja","Alta","Alta","Baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Alta","Alta","Muy baja","Baja",6
+"Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Normal","Baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Alta","Alta","Muy baja","Baja",6
+"Alta","Alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Alta","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Muy baja",5
+"Normal","Baja","Normal","Muy baja","Alta","Muy baja","Normal","Baja","Alta","Baja",6
+"Normal","Baja","Normal","Muy baja","Alta","Muy baja","Normal","Baja","Alta","Baja",6
+"Baja","Muy alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Normal",5
+"Baja","Alta","Baja","Muy baja","Alta","Muy baja","Normal","Normal","Baja","Normal",6
+"Baja","Alta","Baja","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Normal",6
+"Normal","Baja","Normal","Baja","Baja","Muy baja","Baja","Normal","Baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Alta","Baja","Normal","Baja","Baja","Muy baja",6
+"Muy baja","Baja","Baja","Muy baja","Normal","Baja","Baja","Muy alta","Normal","Baja",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Alta","Alta","Normal","Muy baja","Normal",5
+"Muy baja","Baja","Baja","Muy baja","Normal","Baja","Baja","Muy alta","Normal","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Baja",5
+"Alta","Normal","Normal","Muy baja","Baja","Normal","Normal","Baja","Baja","Normal",6
+"Alta","Normal","Normal","Muy baja","Baja","Normal","Normal","Baja","Baja","Normal",6
+"Normal","Alta","Baja","Baja","Normal","Normal","Muy alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Normal","Alta","Normal","Normal","Baja",6
+"Normal","Alta","Baja","Baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy alta",6
+"Alta","Muy alta","Normal","Muy baja","Normal","Muy baja","Alta","Muy baja","Muy alta","Normal",5
+"Normal","Baja","Normal","Muy baja","Normal","Alta","Normal","Muy baja","Normal","Baja",5
+"Alta","Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Alta",7
+"Alta","Normal","Alta","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Alta",6
+"Alta","Normal","Alta","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Alta",6
+"Baja","Normal","Muy baja","Baja","Baja","Alta","Alta","Baja","Muy baja","Muy baja",5
+"Normal","Normal","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta","Alta","Muy alta",7
+"Baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Normal","Baja",6
+"Normal","Normal","Normal","Baja","Baja","Muy baja","Muy baja","Baja","Baja","Baja",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta",7
+"Baja","Normal","Baja","Muy baja","Alta","Muy baja","Muy baja","Baja","Alta","Muy baja",5
+"Baja","Normal","Normal","Baja","Baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal",5
+"Muy alta","Normal","Muy alta","Baja","Baja","Muy baja","Baja","Muy baja","Normal","Alta",6
+"Alta","Baja","Normal","Muy baja","Normal","Normal","Baja","Baja","Normal","Alta",5
+"Baja","Baja","Normal","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Alta",4
+"Muy alta","Baja","Muy alta","Baja","Normal","Normal","Baja","Baja","Normal","Alta",6
+"Alta","Baja","Normal","Muy baja","Normal","Normal","Baja","Baja","Normal","Alta",5
+"Alta","Normal","Baja","Baja","Baja","Muy baja","Baja","Baja","Baja","Normal",6
+"Alta","Muy baja","Alta","Muy baja","Baja","Normal","Muy baja","Baja","Normal","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Baja","Baja","Muy baja","Muy baja",5
+"Normal","Alta","Baja","Baja","Normal","Baja","Normal","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Baja","Baja",5
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta","Normal","Muy alta",7
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Alta","Baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Alta","Baja","Baja",5
+"Baja","Normal","Normal","Baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal",5
+"Baja","Baja","Baja","Baja","Baja","Normal","Baja","Normal","Muy baja","Alta",5
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",7
+"Baja","Baja","Baja","Baja","Baja","Normal","Baja","Normal","Muy baja","Alta",5
+"Normal","Normal","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta","Normal","Muy alta",8
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Normal","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",4
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Normal","Alta",6
+"Alta","Baja","Alta","Muy baja","Normal","Alta","Muy baja","Normal","Alta","Baja",3
+"Muy alta","Baja","Alta","Muy baja","Normal","Muy alta","Muy baja","Normal","Alta","Baja",4
+"Normal","Alta","Normal","Muy baja","Baja","Normal","Muy baja","Normal","Muy baja","Muy baja",5
+"Baja","Alta","Baja","Muy baja","Muy baja","Alta","Baja","Normal","Muy baja","Muy baja",5
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Alta","Baja","Muy baja","Alta",7
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Alta","Baja","Muy baja","Alta",7
+"Alta","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Baja","Alta","Alta",7
+"Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Muy baja","Alta","Muy baja","Normal",5
+"Alta","Baja","Alta","Baja","Baja","Baja","Baja","Baja","Normal","Muy alta",7
+"Baja","Alta","Muy baja","Baja","Normal","Normal","Muy baja","Alta","Baja","Normal",5
+"Alta","Normal","Alta","Muy baja","Normal","Alta","Normal","Baja","Normal","Alta",6
+"Baja","Alta","Alta","Muy baja","Baja","Baja","Alta","Baja","Baja","Muy baja",5
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Alta","Baja","Baja","Alta","Normal",6
+"Muy baja","Alta","Normal","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Muy baja","Alta","Normal","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",6
+"Muy baja","Alta","Normal","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Muy baja","Alta","Normal","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Baja",5
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Alta","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Alta","Normal","Alta",7
+"Alta","Baja","Alta","Muy baja","Baja","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Normal","Normal","Normal","Normal","Alta",7
+"Muy alta","Muy baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Normal",7
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Muy baja","Normal","Alta","Alta",6
+"Baja","Alta","Muy baja","Baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Muy baja","Muy alta","Muy alta","Muy baja","Muy baja","Normal","Alta","Muy alta","Baja","Alta",6
+"Baja","Baja","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy baja","Normal","Alta","Alta",6
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy baja","Normal","Alta","Alta",6
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Muy baja","Normal","Alta","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Normal","Baja","Muy alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy alta","Muy baja","Alta","Baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Alta","Baja","Normal","Baja","Normal",4
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Alta",7
+"Alta","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy alta",7
+"Baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",4
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Normal","Baja","Muy alta",6
+"Normal","Normal","Baja","Baja","Normal","Alta","Normal","Baja","Muy baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Normal","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Muy baja","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Alta","Normal","Alta",6
+"Normal","Muy baja","Normal","Baja","Alta","Baja","Muy baja","Baja","Normal","Muy alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Normal","Normal","Baja","Baja","Normal","Alta","Normal","Baja","Muy baja","Normal",6
+"Normal","Alta","Baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",5
+"Normal","Alta","Baja","Muy baja","Baja","Muy baja","Baja","Normal","Normal","Normal",6
+"Alta","Normal","Alta","Muy baja","Muy baja","Alta","Baja","Muy baja","Normal","Muy alta",7
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Normal","Normal","Baja","Alta",6
+"Alta","Muy alta","Alta","Normal","Normal","Alta","Alta","Baja","Normal","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Baja","Normal","Baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Alta","Baja","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Normal","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Normal","Baja","Baja","Normal","Muy alta",7
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Normal","Baja","Baja","Normal","Muy alta",7
+"Normal","Muy alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta",3
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Muy alta",5
+"Baja","Alta","Baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Alta",7
+"Baja","Alta","Baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Alta",7
+"Baja","Normal","Muy baja","Normal","Muy baja","Baja","Muy baja","Normal","Baja","Alta",7
+"Baja","Normal","Muy baja","Normal","Muy baja","Baja","Muy baja","Normal","Baja","Alta",7
+"Normal","Normal","Baja","Baja","Baja","Normal","Muy alta","Baja","Baja","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Alta","Normal","Normal","Alta",5
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Baja","Alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Alta",6
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta",6
+"Alta","Baja","Alta","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",6
+"Normal","Muy baja","Alta","Alta","Normal","Muy baja","Muy baja","Baja","Baja","Alta",6
+"Alta","Baja","Alta","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta",6
+"Alta","Baja","Alta","Normal","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy alta",6
+"Muy baja","Alta","Baja","Muy baja","Alta","Muy baja","Alta","Muy alta","Baja","Alta",5
+"Baja","Baja","Normal","Alta","Baja","Alta","Baja","Normal","Baja","Normal",6
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Normal","Baja","Normal","Alta",6
+"Normal","Alta","Baja","Muy baja","Baja","Muy alta","Muy baja","Normal","Alta","Muy alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Normal","Baja","Normal","Alta",6
+"Normal","Alta","Baja","Muy baja","Baja","Muy alta","Muy baja","Normal","Alta","Muy alta",6
+"Baja","Baja","Normal","Alta","Baja","Alta","Baja","Normal","Baja","Normal",6
+"Normal","Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy alta","Baja","Alta","Alta","Alta",7
+"Alta","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Baja","Alta","Alta","Normal",6
+"Normal","Alta","Baja","Muy baja","Normal","Baja","Alta","Baja","Baja","Muy baja",4
+"Normal","Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",5
+"Normal","Muy baja","Alta","Baja","Muy baja","Baja","Muy baja","Baja","Normal","Muy alta",7
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy alta","Normal","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Alta","Normal","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy alta","Normal","Normal",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Alta","Normal","Normal","Muy alta",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Alta","Normal","Normal","Muy alta",6
+"Muy alta","Alta","Muy alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Baja","Normal",4
+"Baja","Baja","Alta","Baja","Muy baja","Alta","Baja","Normal","Normal","Muy alta",7
+"Muy baja","Baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Baja","Alta",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Alta","Muy baja","Muy alta","Normal","Baja","Baja","Muy baja","Baja","Muy baja","Muy alta",7
+"Alta","Baja","Alta","Muy baja","Normal","Baja","Normal","Baja","Baja","Normal",7
+"Alta","Normal","Alta","Muy baja","Normal","Baja","Normal","Baja","Baja","Baja",7
+"Normal","Muy baja","Muy alta","Baja","Baja","Baja","Muy baja","Baja","Baja","Muy alta",7
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta",7
+"Alta","Baja","Muy alta","Baja","Normal","Baja","Muy baja","Baja","Alta","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Alta",7
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Muy alta",7
+"Baja","Baja","Alta","Baja","Baja","Muy baja","Muy baja","Normal","Baja","Muy alta",6
+"Normal","Muy baja","Muy alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Normal",5
+"Normal","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Alta",6
+"Alta","Baja","Muy alta","Muy baja","Baja","Baja","Normal","Baja","Baja","Alta",6
+"Muy baja","Normal","Baja","Muy baja","Normal","Alta","Muy baja","Alta","Normal","Alta",7
+"Normal","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",5
+"Normal","Baja","Normal","Muy baja","Muy baja","Normal","Baja","Muy baja","Alta","Alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Normal","Baja",5
+"Normal","Muy baja","Alta","Muy baja","Normal","Normal","Muy baja","Muy baja","Normal","Alta",6
+"Normal","Baja","Normal","Muy baja","Muy baja","Normal","Baja","Muy baja","Alta","Alta",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Alta","Baja","Normal","Alta","Alta",6
+"Normal","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Baja","Muy alta",7
+"Normal","Alta","Baja","Muy baja","Normal","Alta","Muy alta","Muy baja","Muy baja","Muy baja",5
+"Normal","Baja","Alta","Muy baja","Muy baja","Alta","Baja","Baja","Baja","Muy alta",6
+"Baja","Normal","Baja","Baja","Baja","Muy baja","Muy baja","Alta","Baja","Normal",5
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Alta","Alta",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Alta","Alta",6
+"Alta","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Alta",7
+"Normal","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Alta","Baja","Alta",5
+"Normal","Muy baja","Alta","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Muy baja","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Alta","Muy alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Muy baja","Alta",7
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Normal",5
+"Normal","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Normal",6
+"Alta","Muy alta","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy alta","Baja","Normal","Alta","Muy alta",6
+"Normal","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Normal",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Alta",7
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Muy baja","Muy baja",5
+"Baja","Baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja",5
+"Alta","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Muy baja","Alta",6
+"Baja","Baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Muy baja","Muy baja",5
+"Muy baja","Baja","Baja","Muy baja","Baja","Alta","Baja","Normal","Muy baja","Muy baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Muy baja","Muy baja",5
+"Alta","Baja","Alta","Muy baja","Normal","Normal","Alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy alta","Baja","Muy alta",7
+"Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy alta","Baja","Muy alta",7
+"Normal","Muy alta","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja",6
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Muy alta",6
+"Baja","Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Alta",7
+"Alta","Baja","Alta","Muy baja","Muy baja","Alta","Baja","Baja","Alta","Normal",7
+"Normal","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",7
+"Baja","Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta",7
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Baja","Baja","Baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta",7
+"Normal","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",7
+"Normal","Baja","Alta","Baja","Normal","Baja","Muy baja","Baja","Normal","Muy alta",7
+"Alta","Normal","Alta","Baja","Normal","Alta","Baja","Baja","Normal","Alta",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Normal","Muy baja","Normal","Muy baja","Baja","Baja","Muy baja","Muy baja","Baja","Normal",6
+"Baja","Muy alta","Baja","Muy baja","Normal","Baja","Baja","Baja","Muy baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Normal","Muy baja","Normal","Baja","Normal",6
+"Normal","Normal","Baja","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Alta",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy alta","Alta","Muy baja","Muy baja","Muy alta",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy alta","Alta","Muy baja","Muy baja","Muy alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Alta","Baja","Normal",5
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy alta",6
+"Baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Normal",5
+"Normal","Muy baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Normal",7
+"Normal","Muy alta","Muy baja","Baja","Normal","Normal","Baja","Normal","Baja","Normal",6
+"Normal","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Muy alta",6
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta","Muy baja","Alta",5
+"Baja","Baja","Normal","Muy baja","Baja","Muy alta","Baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Normal",7
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Alta",7
+"Baja","Normal","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Baja","Alta",7
+"Normal","Muy alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",6
+"Normal","Alta","Baja","Muy baja","Baja","Normal","Normal","Baja","Muy baja","Baja",6
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Normal",7
+"Baja","Muy baja","Alta","Muy baja","Baja","Alta","Muy baja","Baja","Baja","Muy alta",7
+"Baja","Muy alta","Baja","Muy baja","Baja","Normal","Normal","Normal","Baja","Muy baja",5
+"Normal","Baja","Alta","Normal","Baja","Alta","Baja","Baja","Normal","Muy alta",7
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Baja","Normal","Alta","Alta",6
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Normal",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Baja","Normal","Alta","Alta",6
+"Alta","Baja","Alta","Alta","Muy baja","Normal","Baja","Baja","Alta","Alta",7
+"Muy baja","Baja","Normal","Baja","Muy baja","Baja","Normal","Normal","Baja","Muy alta",6
+"Baja","Baja","Muy baja","Muy baja","Baja","Alta","Muy baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Alta","Muy baja","Baja","Baja","Alta",6
+"Baja","Baja","Baja","Muy baja","Baja","Alta","Baja","Alta","Baja","Normal",5
+"Alta","Normal","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Alta","Normal","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Baja","Baja","Baja","Muy baja","Baja","Alta","Baja","Alta","Baja","Normal",5
+"Normal","Baja","Muy alta","Muy baja","Muy alta","Normal","Baja","Muy baja","Muy alta","Muy baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Baja","Muy alta",5
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Normal","Alta","Normal","Muy baja","Normal","Muy baja","Alta","Muy baja","Baja","Muy baja",6
+"Normal","Alta","Normal","Muy baja","Normal","Muy baja","Alta","Muy baja","Baja","Muy baja",6
+"Normal","Normal","Muy alta","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Baja","Baja","Normal","Baja","Normal","Alta","Alta","Muy baja","Baja","Muy baja",5
+"Alta","Normal","Muy alta","Muy baja","Normal","Alta","Baja","Baja","Normal","Alta",7
+"Normal","Normal","Muy alta","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy alta",7
+"Muy alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja",6
+"Normal","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy alta",8
+"Normal","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Alta",6
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy alta",6
+"Normal","Alta","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Muy alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Muy alta",7
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Alta",7
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Alta",7
+"Normal","Alta","Alta","Baja","Baja","Alta","Baja","Baja","Baja","Alta",5
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Alta",7
+"Baja","Alta","Baja","Alta","Normal","Alta","Alta","Baja","Baja","Muy baja",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Baja",6
+"Normal","Alta","Normal","Baja","Baja","Normal","Baja","Baja","Baja","Alta",6
+"Baja","Alta","Baja","Alta","Normal","Alta","Alta","Baja","Baja","Muy baja",5
+"Normal","Muy baja","Alta","Muy baja","Baja","Muy alta","Baja","Normal","Alta","Normal",7
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta",6
+"Normal","Baja","Muy alta","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Alta",5
+"Normal","Baja","Muy alta","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Alta",5
+"Normal","Muy baja","Muy alta","Alta","Muy baja","Muy alta","Muy alta","Muy baja","Muy baja","Muy alta",7
+"Alta","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy alta",6
+"Normal","Muy baja","Muy alta","Alta","Muy baja","Muy alta","Muy alta","Muy baja","Muy baja","Muy alta",7
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Baja",6
+"Normal","Baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Normal","Muy alta",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy alta","Baja","Muy baja","Muy baja","Baja",5
+"Normal","Baja","Alta","Normal","Muy baja","Muy baja","Muy baja","Normal","Normal","Alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Baja","Normal","Alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Normal","Baja","Muy baja","Normal","Baja",7
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Normal","Baja","Muy baja","Normal","Baja",7
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy alta","Normal","Muy baja","Baja","Muy alta",8
+"Normal","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Baja","Normal","Alta","Muy alta",7
+"Baja","Alta","Baja","Normal","Normal","Baja","Muy baja","Normal","Muy baja","Alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal",5
+"Baja","Alta","Baja","Normal","Normal","Baja","Muy baja","Normal","Muy baja","Alta",6
+"Normal","Normal","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja",5
+"Normal","Muy baja","Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy alta",7
+"Normal","Normal","Alta","Muy baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja",5
+"Normal","Baja","Alta","Muy baja","Baja","Alta","Muy baja","Muy baja","Normal","Muy alta",6
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Muy alta",6
+"Muy baja","Normal","Baja","Muy baja","Baja","Normal","Muy baja","Alta","Baja","Alta",6
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Muy alta",6
+"Normal","Normal","Alta","Muy baja","Baja","Normal","Muy baja","Baja","Normal","Muy alta",6
+"Muy baja","Normal","Normal","Muy baja","Muy baja","Baja","Normal","Normal","Baja","Muy alta",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Baja","Muy alta",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Alta","Alta",7
+"Normal","Alta","Baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Alta","Alta","Normal","Muy baja","Normal","Alta",6
+"Normal","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Muy baja","Baja","Normal","Muy baja","Normal","Alta","Normal","Muy alta","Baja","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Baja","Normal","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Baja","Baja",6
+"Muy baja","Baja","Muy alta","Baja","Muy baja","Alta","Normal","Alta","Normal","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Alta",6
+"Baja","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy alta",6
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Muy alta",5
+"Normal","Normal","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy alta",8
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Muy alta",6
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Alta","Muy baja","Muy alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Normal","Muy baja","Muy baja","Normal","Alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Baja","Alta",4
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Alta",7
+"Muy baja","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta",6
+"Muy baja","Alta","Muy baja","Baja","Baja","Alta","Baja","Alta","Baja","Alta",6
+"Alta","Baja","Normal","Baja","Normal","Alta","Alta","Baja","Normal","Normal",5
+"Alta","Baja","Alta","Baja","Normal","Alta","Normal","Baja","Normal","Normal",6
+"Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Normal",6
+"Muy baja","Muy baja","Normal","Muy baja","Muy baja","Muy alta","Alta","Normal","Muy baja","Baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Normal","Baja","Normal","Alta","Muy alta",7
+"Baja","Normal","Muy baja","Normal","Baja","Baja","Muy baja","Normal","Normal","Alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Muy alta",7
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Muy alta",6
+"Alta","Normal","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Alta","Normal","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Baja","Baja","Baja","Baja","Normal","Alta","Alta","Muy baja","Baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Alta","Normal","Baja","Baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Normal","Baja",6
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Normal","Baja","Alta","Alta",6
+"Baja","Baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Alta",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Alta","Alta","Normal",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Alta","Normal","Normal","Baja","Normal",5
+"Normal","Muy baja","Alta","Muy baja","Baja","Alta","Baja","Alta","Alta","Normal",6
+"Normal","Normal","Baja","Muy baja","Alta","Muy baja","Muy baja","Baja","Alta","Baja",6
+"Alta","Baja","Alta","Normal","Baja","Muy baja","Muy baja","Baja","Muy baja","Muy alta",7
+"Normal","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Alta",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Muy alta",6
+"Normal","Muy baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Muy alta",7
+"Muy baja","Normal","Normal","Muy baja","Muy baja","Normal","Alta","Alta","Normal","Muy alta",6
+"Normal","Normal","Normal","Muy baja","Normal","Baja","Baja","Muy baja","Muy baja","Baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Normal","Baja","Baja","Normal","Alta",6
+"Baja","Normal","Muy baja","Muy baja","Normal","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Normal","Normal","Normal","Muy baja","Normal","Baja","Baja","Muy baja","Muy baja","Baja",5
+"Normal","Muy baja","Muy alta","Muy baja","Baja","Muy alta","Normal","Normal","Normal","Muy alta",7
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Alta","Alta","Alta","Muy alta",7
+"Baja","Baja","Alta","Baja","Baja","Normal","Normal","Normal","Muy alta","Normal",6
+"Alta","Baja","Alta","Muy baja","Normal","Baja","Baja","Muy baja","Normal","Alta",5
+"Alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta",7
+"Normal","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Baja","Normal","Normal",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy alta",7
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Normal","Normal",5
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Muy baja","Baja","Normal","Normal",5
+"Normal","Baja","Muy alta","Muy baja","Muy alta","Normal","Baja","Muy baja","Alta","Muy baja",5
+"Alta","Normal","Normal","Muy baja","Normal","Muy baja","Alta","Muy baja","Alta","Normal",5
+"Normal","Muy baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Alta","Muy alta",7
+"Muy baja","Baja","Normal","Baja","Muy baja","Muy baja","Normal","Baja","Baja","Muy alta",6
+"Baja","Normal","Normal","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Alta",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Baja","Normal","Normal","Alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy alta",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Baja","Baja",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Baja","Baja",6
+"Muy baja","Normal","Muy baja","Muy baja","Normal","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Muy baja","Muy alta","Muy baja","Normal","Baja","Alta","Baja","Alta","Muy baja","Alta",4
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta",7
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Alta","Muy alta","Normal","Alta",5
+"Normal","Baja","Normal","Muy baja","Baja","Baja","Normal","Baja","Alta","Alta",6
+"Normal","Baja","Normal","Muy baja","Baja","Baja","Normal","Baja","Alta","Alta",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta",5
+"Alta","Baja","Alta","Muy baja","Muy baja","Muy alta","Muy baja","Normal","Alta","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Normal","Baja","Baja","Muy baja",5
+"Baja","Alta","Normal","Muy baja","Baja","Baja","Muy alta","Normal","Normal","Alta",5
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy alta",6
+"Baja","Alta","Muy baja","Alta","Baja","Muy baja","Muy baja","Alta","Muy baja","Muy alta",5
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Normal","Normal","Muy baja","Muy alta",6
+"Baja","Alta","Normal","Muy baja","Baja","Baja","Muy alta","Normal","Normal","Alta",5
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",4
+"Normal","Baja","Muy alta","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Muy alta",6
+"Muy baja","Muy alta","Muy baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Muy baja","Alta",5
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Baja","Normal","Alta","Alta","Muy alta",7
+"Muy baja","Muy alta","Muy baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Muy baja","Alta",5
+"Baja","Alta","Baja","Muy baja","Normal","Normal","Normal","Baja","Baja","Baja",6
+"Muy baja","Baja","Normal","Muy baja","Baja","Normal","Normal","Alta","Baja","Baja",6
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Baja","Baja",6
+"Baja","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Alta","Muy baja","Normal","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Baja","Baja",6
+"Baja","Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Baja","Alta",7
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Alta",8
+"Alta","Alta","Baja","Normal","Normal","Alta","Normal","Muy baja","Baja","Muy baja",5
+"Baja","Baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Alta","Alta",7
+"Baja","Baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Alta","Alta",7
+"Baja","Baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Alta","Alta",7
+"Alta","Alta","Muy alta","Muy baja","Normal","Alta","Baja","Normal","Alta","Normal",5
+"Baja","Baja","Alta","Muy baja","Baja","Alta","Baja","Normal","Alta","Alta",7
+"Muy baja","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Alta","Alta","Alta",7
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Normal",6
+"Baja","Baja","Baja","Muy baja","Baja","Normal","Normal","Normal","Baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Baja","Normal",6
+"Alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Normal",6
+"Alta","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal",6
+"Normal","Muy baja","Alta","Muy baja","Normal","Normal","Muy baja","Baja","Baja","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Alta","Baja","Normal","Baja",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Muy alta","Normal","Baja","Alta","Muy alta",6
+"Normal","Baja","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Normal","Normal",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Alta","Baja","Baja","Alta","Alta",6
+"Alta","Muy baja","Muy alta","Muy baja","Normal","Normal","Baja","Baja","Normal","Alta",6
+"Alta","Muy baja","Muy alta","Muy baja","Normal","Normal","Baja","Baja","Normal","Alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Muy baja","Baja",6
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Muy baja","Baja","Normal","Muy alta",6
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Normal",6
+"Normal","Baja","Normal","Muy baja","Baja","Normal","Alta","Muy baja","Muy baja","Muy baja",5
+"Baja","Normal","Muy baja","Baja","Baja","Alta","Baja","Muy baja","Muy baja","Muy baja",5
+"Normal","Normal","Normal","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja",5
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Alta","Muy alta","Normal","Muy alta",7
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Normal","Normal","Baja","Baja",5
+"Baja","Muy baja","Alta","Baja","Muy baja","Normal","Normal","Normal","Normal","Muy alta",6
+"Normal","Muy alta","Muy baja","Muy baja","Baja","Muy alta","Normal","Normal","Baja","Alta",5
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Normal","Normal","Baja","Baja",5
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Muy baja","Muy baja",4
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Muy baja","Muy alta",6
+"Muy baja","Muy baja","Normal","Muy alta","Muy baja","Muy baja","Muy alta","Baja","Baja","Alta",4
+"Normal","Normal","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Baja","Muy baja",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Muy baja","Muy alta",6
+"Normal","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Muy baja","Baja",4
+"Muy baja","Alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Alta","Baja","Muy alta",4
+"Baja","Normal","Baja","Muy baja","Baja","Muy alta","Baja","Muy baja","Muy baja","Muy baja",5
+"Alta","Baja","Alta","Muy baja","Baja","Alta","Normal","Muy baja","Baja","Baja",5
+"Normal","Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Baja","Muy alta",6
+"Normal","Normal","Normal","Muy baja","Baja","Baja","Alta","Normal","Baja","Baja",5
+"Muy baja","Muy baja","Normal","Muy alta","Muy baja","Muy alta","Muy alta","Normal","Baja","Normal",6
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Normal","Muy baja","Muy baja","Normal",5
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Alta","Normal","Normal",5
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Muy baja","Normal","Normal","Alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Muy baja","Normal","Baja","Alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Alta","Muy baja","Normal","Baja","Alta",6
+"Baja","Normal","Baja","Muy baja","Baja","Alta","Normal","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Alta","Baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Normal","Alta",5
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta","Muy baja","Alta",5
+"Baja","Normal","Normal","Muy baja","Baja","Muy alta","Baja","Muy baja","Muy baja","Muy baja",5
+"Baja","Normal","Normal","Normal","Baja","Baja","Alta","Normal","Normal","Alta",6
+"Baja","Alta","Muy baja","Baja","Normal","Normal","Baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Baja","Normal","Normal","Baja","Normal","Baja","Alta",6
+"Normal","Alta","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",5
+"Muy baja","Muy alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Baja","Alta",4
+"Alta","Baja","Alta","Muy baja","Baja","Alta","Normal","Muy baja","Baja","Baja",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Muy baja","Baja",4
+"Normal","Baja","Normal","Muy baja","Muy baja","Alta","Baja","Normal","Normal","Muy alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Alta","Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Alta",6
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Normal","Alta","Baja","Baja",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Alta","Alta","Alta","Alta","Muy alta",8
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Alta","Normal","Muy alta","Normal","Muy alta",6
+"Baja","Baja","Baja","Muy baja","Muy baja","Alta","Normal","Normal","Baja","Alta",6
+"Muy baja","Baja","Muy baja","Muy baja","Baja","Alta","Baja","Alta","Muy baja","Alta",5
+"Baja","Normal","Baja","Muy baja","Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja",5
+"Normal","Normal","Baja","Muy baja","Normal","Normal","Baja","Baja","Muy baja","Alta",6
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Alta","Baja","Baja","Baja",6
+"Normal","Baja","Alta","Normal","Muy baja","Muy baja","Muy baja","Baja","Baja","Muy alta",4
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Baja",6
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Alta","Baja","Baja","Baja",6
+"Alta","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta",7
+"Baja","Baja","Baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Normal",6
+"Baja","Baja","Baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Normal",6
+"Normal","Alta","Muy baja","Muy baja","Baja","Baja","Muy baja","Normal","Normal","Alta",6
+"Normal","Alta","Normal","Baja","Normal","Normal","Normal","Baja","Baja","Normal",6
+"Baja","Baja","Baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Alta",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Normal","Baja","Muy baja","Baja","Normal",5
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Muy alta",6
+"Normal","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Muy alta",5
+"Baja","Normal","Normal","Normal","Muy baja","Normal","Muy alta","Baja","Muy alta","Normal",5
+"Baja","Normal","Normal","Normal","Muy baja","Normal","Muy alta","Baja","Muy alta","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Normal","Alta","Baja","Muy baja","Baja","Alta","Normal","Baja","Normal","Alta",6
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Muy alta","Normal","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Baja",4
+"Normal","Alta","Baja","Muy baja","Baja","Alta","Normal","Baja","Normal","Alta",6
+"Baja","Alta","Muy baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Baja","Normal","Muy alta","Baja","Baja","Muy baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Muy alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Baja","Muy alta",6
+"Baja","Muy alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Alta","Muy baja","Alta",3
+"Muy baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Muy alta","Baja","Muy alta",6
+"Baja","Muy alta","Muy baja","Muy baja","Normal","Normal","Normal","Alta","Normal","Alta",6
+"Normal","Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Alta","Normal","Normal","Normal","Alta",5
+"Baja","Alta","Normal","Muy baja","Baja","Normal","Normal","Muy baja","Muy baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Muy baja","Baja",5
+"Alta","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Normal",5
+"Baja","Alta","Baja","Baja","Muy baja","Normal","Muy baja","Normal","Muy baja","Alta",4
+"Alta","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Normal",5
+"Baja","Alta","Baja","Muy baja","Baja","Alta","Normal","Baja","Baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Muy baja","Baja",5
+"Muy baja","Normal","Baja","Baja","Muy baja","Baja","Muy baja","Normal","Baja","Muy alta",6
+"Normal","Muy alta","Normal","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Normal","Normal","Baja","Normal",6
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Muy baja","Normal",6
+"Baja","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Baja",6
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta","Baja","Muy alta",6
+"Alta","Baja","Alta","Muy baja","Baja","Baja","Normal","Baja","Normal","Muy alta",6
+"Baja","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Baja",6
+"Normal","Alta","Muy alta","Muy baja","Muy alta","Normal","Normal","Muy baja","Muy alta","Muy baja",6
+"Alta","Alta","Alta","Muy baja","Normal","Baja","Alta","Baja","Normal","Normal",5
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy alta","Baja","Muy alta",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Baja","Alta",5
+"Normal","Baja","Alta","Muy baja","Muy baja","Normal","Normal","Baja","Alta","Alta",7
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Baja","Normal","Baja","Normal",6
+"Muy baja","Normal","Baja","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Muy baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Baja",6
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Alta","Baja","Baja","Baja",6
+"Normal","Muy alta","Normal","Baja","Normal","Alta","Normal","Baja","Muy baja","Muy baja",5
+"Normal","Baja","Baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja",6
+"Normal","Alta","Normal","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Baja","Normal","Normal","Muy alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Muy baja","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Muy baja","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Muy baja","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Muy baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta",5
+"Normal","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Muy baja","Normal",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Baja",5
+"Baja","Normal","Muy baja","Baja","Baja","Normal","Baja","Normal","Muy baja","Alta",5
+"Normal","Normal","Normal","Muy baja","Muy baja","Alta","Normal","Normal","Baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Muy baja","Muy alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Muy baja","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Normal",5
+"Muy baja","Muy baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Normal",5
+"Muy baja","Baja","Normal","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Baja","Alta","Normal","Alta","Baja","Alta",6
+"Baja","Alta","Baja","Normal","Alta","Muy alta","Normal","Baja","Muy baja","Baja",5
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Normal","Normal",6
+"Normal","Normal","Normal","Muy baja","Normal","Baja","Baja","Baja","Baja","Alta",5
+"Normal","Muy alta","Baja","Muy baja","Normal","Baja","Normal","Normal","Baja","Normal",5
+"Muy alta","Baja","Alta","Muy baja","Baja","Muy baja","Baja","Muy baja","Normal","Normal",6
+"Normal","Muy alta","Normal","Muy baja","Baja","Baja","Normal","Baja","Muy baja","Baja",4
+"Baja","Normal","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Muy baja","Muy alta",6
+"Normal","Normal","Baja","Muy baja","Normal","Baja","Normal","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Muy baja","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy alta","Baja","Muy alta","Normal",6
+"Normal","Alta","Normal","Muy baja","Baja","Normal","Alta","Baja","Muy baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal",4
+"Normal","Alta","Muy alta","Muy baja","Muy alta","Baja","Alta","Muy baja","Muy alta","Muy baja",5
+"Baja","Normal","Muy alta","Baja","Alta","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Normal","Alta","Muy alta","Muy baja","Muy alta","Baja","Alta","Muy baja","Muy alta","Muy baja",5
+"Baja","Alta","Normal","Baja","Normal","Alta","Alta","Baja","Muy baja","Muy baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Alta","Normal","Muy baja","Normal","Muy baja","Baja",3
+"Baja","Normal","Normal","Muy baja","Baja","Baja","Muy alta","Baja","Muy baja","Baja",5
+"Normal","Muy alta","Baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Normal",5
+"Muy baja","Normal","Normal","Muy baja","Baja","Alta","Normal","Muy alta","Baja","Muy alta",6
+"Baja","Baja","Baja","Muy baja","Baja","Baja","Baja","Baja","Muy baja","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Alta",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Alta",6
+"Baja","Muy alta","Baja","Muy baja","Baja","Muy baja","Baja","Normal","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Alta","Baja","Muy baja","Baja",5
+"Baja","Alta","Baja","Muy baja","Normal","Normal","Alta","Baja","Muy baja","Baja",5
+"Normal","Muy alta","Normal","Baja","Baja","Alta","Normal","Baja","Muy baja","Muy baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Baja",5
+"Baja","Alta","Normal","Normal","Baja","Muy baja","Normal","Normal","Normal","Normal",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy alta","Alta","Muy baja","Muy baja","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta","Baja","Muy alta",6
+"Normal","Alta","Normal","Muy baja","Normal","Muy baja","Baja","Normal","Baja","Alta",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Normal","Normal","Baja","Muy baja","Normal",5
+"Muy baja","Normal","Baja","Baja","Baja","Alta","Normal","Normal","Muy baja","Muy baja",5
+"Normal","Alta","Baja","Muy baja","Normal","Muy baja","Muy baja","Baja","Normal","Baja",6
+"Normal","Alta","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",5
+"Baja","Normal","Normal","Muy baja","Baja","Normal","Muy alta","Baja","Muy baja","Baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Alta","Baja","Normal",7
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Normal","Alta",6
+"Normal","Alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Normal","Alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Normal","Alta","Muy alta",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Alta","Normal",8
+"Normal","Normal","Alta","Muy baja","Baja","Baja","Normal","Normal","Baja","Alta",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Alta",7
+"Normal","Muy baja","Alta","Normal","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy alta","Muy baja","Alta","Alta","Alta",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Alta","Baja","Baja","Alta","Muy alta",7
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy alta","Muy baja","Alta","Alta","Alta",6
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Muy baja","Muy alta",6
+"Muy baja","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Alta","Normal","Normal",6
+"Normal","Muy baja","Alta","Normal","Muy baja","Muy baja","Muy baja","Baja","Alta","Alta",6
+"Alta","Normal","Normal","Muy baja","Normal","Baja","Alta","Muy baja","Alta","Normal",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Alta","Muy baja",5
+"Alta","Muy baja","Muy alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Normal","Muy alta",7
+"Normal","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Baja","Alta","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Normal","Normal","Muy baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Baja","Baja","Baja","Muy baja","Baja","Alta","Normal","Normal","Baja","Muy baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy alta","Baja","Normal","Alta","Alta",6
+"Muy baja","Normal","Baja","Baja","Normal","Baja","Baja","Alta","Normal","Alta",4
+"Normal","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",6
+"Normal","Muy baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Baja","Normal","Baja",6
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Normal","Normal","Normal","Muy alta",6
+"Baja","Baja","Normal","Muy baja","Baja","Muy baja","Baja","Baja","Baja","Alta",5
+"Normal","Alta","Muy baja","Muy baja","Baja","Alta","Baja","Baja","Baja","Alta",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy alta","Baja","Normal","Alta","Alta",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Baja","Alta","Baja","Baja","Baja",6
+"Muy baja","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Alta","Alta",6
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Normal","Normal",7
+"Alta","Normal","Alta","Muy alta","Alta","Muy alta","Normal","Baja","Normal","Muy baja",6
+"Alta","Normal","Alta","Muy alta","Alta","Muy alta","Normal","Baja","Normal","Muy baja",6
+"Alta","Baja","Alta","Muy baja","Alta","Alta","Alta","Muy baja","Normal","Muy baja",5
+"Baja","Muy alta","Normal","Normal","Baja","Normal","Baja","Alta","Baja","Alta",5
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Alta","Alta","Normal","Normal","Alta",6
+"Baja","Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Baja","Normal","Alta",7
+"Baja","Alta","Baja","Normal","Normal","Normal","Alta","Muy baja","Muy baja","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Normal","Baja",5
+"Baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Alta",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Alta","Alta","Normal","Normal","Alta",6
+"Baja","Alta","Baja","Normal","Normal","Normal","Alta","Muy baja","Muy baja","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Normal","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Baja","Normal","Normal","Baja",5
+"Baja","Normal","Muy baja","Muy baja","Baja","Muy alta","Muy baja","Normal","Normal","Baja",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Baja","Normal","Alta",8
+"Baja","Baja","Normal","Muy baja","Muy baja","Normal","Muy baja","Baja","Normal","Alta",7
+"Normal","Muy baja","Alta","Baja","Normal","Muy baja","Muy baja","Normal","Normal","Alta",7
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Muy alta","Baja","Normal","Normal","Alta",7
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Alta","Normal","Baja","Muy baja",5
+"Muy alta","Baja","Muy alta","Muy baja","Baja","Muy baja","Baja","Baja","Normal","Alta",6
+"Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Baja","Alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy alta","Normal","Baja","Muy baja","Normal",6
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Alta","Normal","Baja","Muy baja",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Normal",5
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Alta","Muy alta",7
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Alta","Normal","Normal","Normal","Normal",6
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Normal",4
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Baja","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Baja","Baja","Normal","Muy baja","Alta",6
+"Baja","Normal","Baja","Muy baja","Muy baja","Alta","Baja","Normal","Normal","Baja",5
+"Baja","Normal","Baja","Muy baja","Muy baja","Alta","Baja","Normal","Normal","Baja",5
+"Baja","Normal","Normal","Muy baja","Muy baja","Alta","Baja","Baja","Normal","Normal",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Alta","Baja","Alta",4
+"Baja","Normal","Normal","Muy baja","Muy baja","Alta","Baja","Baja","Normal","Normal",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Baja","Baja","Baja","Baja",3
+"Alta","Alta","Baja","Muy baja","Baja","Muy baja","Baja","Muy baja","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Muy alta",5
+"Baja","Baja","Muy alta","Muy baja","Baja","Alta","Baja","Normal","Normal","Alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Normal","Baja","Alta",5
+"Alta","Normal","Muy alta","Muy alta","Alta","Muy alta","Normal","Muy baja","Normal","Muy baja",5
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Alta","Alta","Alta","Muy alta",7
+"Alta","Normal","Muy alta","Muy alta","Alta","Muy alta","Normal","Muy baja","Normal","Muy baja",5
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Alta","Alta","Alta","Muy alta",7
+"Baja","Muy alta","Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal",3
+"Normal","Muy baja","Muy alta","Baja","Normal","Baja","Muy baja","Normal","Normal","Normal",5
+"Muy baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Muy alta","Baja","Normal",4
+"Normal","Muy baja","Muy alta","Baja","Normal","Baja","Muy baja","Normal","Normal","Normal",5
+"Baja","Normal","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal",4
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Alta",5
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",4
+"Baja","Alta","Baja","Muy baja","Baja","Muy baja","Baja","Normal","Baja","Baja",5
+"Baja","Alta","Normal","Muy baja","Baja","Baja","Muy baja","Normal","Baja","Normal",5
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Normal","Normal",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy alta","Baja","Alta",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Normal","Alta",6
+"Baja","Muy baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Muy alta",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Muy alta","Baja","Alta",5
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Muy alta",5
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Muy baja","Muy baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Normal","Normal",7
+"Baja","Baja","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Alta","Normal",6
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",6
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Muy baja","Alta","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Baja",5
+"Normal","Muy alta","Normal","Baja","Baja","Normal","Normal","Muy baja","Muy baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Normal","Baja","Baja","Baja",5
+"Muy baja","Baja","Alta","Muy baja","Baja","Muy baja","Muy baja","Alta","Normal","Alta",6
+"Baja","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Baja","Baja",3
+"Baja","Muy alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Normal","Alta",6
+"Baja","Baja","Muy alta","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Alta",6
+"Baja","Muy baja","Muy alta","Muy baja","Baja","Normal","Muy baja","Normal","Normal","Normal",6
+"Normal","Muy baja","Alta","Muy baja","Muy baja","Muy baja","Muy baja","Baja","Normal","Alta",5
+"Muy baja","Baja","Normal","Muy baja","Muy baja","Alta","Baja","Alta","Normal","Baja",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Normal","Baja",5
+"Muy baja","Alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Normal","Normal",6
+"Muy baja","Normal","Baja","Muy baja","Baja","Normal","Normal","Normal","Baja","Normal",6
+"Baja","Muy alta","Normal","Baja","Baja","Normal","Normal","Alta","Normal","Muy baja",6
+"Baja","Muy alta","Normal","Baja","Baja","Normal","Normal","Alta","Normal","Muy baja",6
+"Muy baja","Muy baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Alta","Normal",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Normal","Alta","Normal",6
+"Baja","Baja","Alta","Muy baja","Normal","Muy baja","Muy baja","Normal","Baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Normal","Baja","Muy baja","Normal","Baja","Normal",5
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Normal","Alta","Normal",6
+"Baja","Normal","Baja","Muy baja","Baja","Baja","Muy baja","Normal","Muy baja","Muy baja",4
+"Muy baja","Muy baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Alta","Normal",5
+"Baja","Normal","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Normal",5
+"Muy baja","Baja","Baja","Muy baja","Baja","Normal","Baja","Normal","Normal","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Baja","Normal","Baja","Baja",5
+"Baja","Baja","Muy baja","Muy baja","Muy baja","Normal","Baja","Baja","Normal","Baja",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Baja","Normal","Alta",6
+"Normal","Muy baja","Muy alta","Muy baja","Normal","Normal","Normal","Baja","Normal","Normal",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Muy alta","Muy baja","Normal","Baja","Normal",6
+"Baja","Baja","Baja","Muy baja","Muy baja","Baja","Muy baja","Normal","Normal","Alta",6
+"Muy baja","Alta","Baja","Baja","Baja","Baja","Muy baja","Alta","Normal","Normal",5
+"Baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Baja","Normal","Baja",6
+"Normal","Baja","Normal","Muy baja","Baja","Alta","Normal","Normal","Baja","Muy baja",5
+"Baja","Normal","Baja","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Alta",7
+"Baja","Normal","Baja","Muy baja","Baja","Normal","Baja","Normal","Baja","Baja",6
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Alta","Baja","Alta","Normal","Normal",6
+"Muy baja","Normal","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Alta","Baja","Normal",6
+"Muy baja","Alta","Baja","Muy baja","Baja","Normal","Muy baja","Alta","Baja","Muy alta",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Alta","Baja","Alta","Normal","Baja",5
+"Muy baja","Normal","Muy baja","Normal","Baja","Baja","Baja","Alta","Baja","Alta",6
+"Baja","Muy baja","Normal","Muy baja","Muy baja","Normal","Normal","Normal","Normal","Alta",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Baja","Baja","Alta",6
+"Alta","Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Baja","Normal",6
+"Normal","Baja","Alta","Muy baja","Muy baja","Baja","Muy baja","Muy baja","Alta","Alta",7
+"Muy baja","Alta","Normal","Muy baja","Muy baja","Normal","Muy baja","Normal","Baja","Normal",6
+"Baja","Normal","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Normal",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Muy baja","Muy alta",5
+"Muy alta","Baja","Muy alta","Muy baja","Normal","Normal","Normal","Muy baja","Baja","Normal",5
+"Baja","Baja","Normal","Muy baja","Baja","Normal","Muy baja","Baja","Normal","Alta",8
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Alta","Muy baja","Baja",5
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Muy baja",5
+"Muy baja","Alta","Muy baja","Baja","Normal","Alta","Baja","Alta","Normal","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Baja","Normal","Muy baja","Normal","Baja","Muy baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Alta","Baja","Alta",6
+"Baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Normal","Normal",7
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Baja","Baja",5
+"Baja","Muy alta","Muy baja","Muy baja","Muy baja","Normal","Muy baja","Alta","Baja","Alta",6
+"Baja","Alta","Normal","Normal","Alta","Muy alta","Normal","Baja","Baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Normal","Normal","Normal","Muy baja","Baja","Alta","Muy alta","Baja","Muy baja","Baja",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Baja","Normal","Alta","Alta",6
+"Baja","Muy baja","Muy alta","Muy baja","Muy baja","Alta","Baja","Normal","Normal","Alta",6
+"Baja","Alta","Baja","Muy baja","Baja","Baja","Muy baja","Baja","Baja","Normal",5
+"Baja","Normal","Baja","Muy baja","Baja","Alta","Baja","Normal","Baja","Muy baja",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Baja","Alta","Baja","Alta",6
+"Muy baja","Baja","Muy alta","Muy baja","Alta","Normal","Baja","Normal","Alta","Muy alta",6
+"Muy baja","Baja","Baja","Muy baja","Muy baja","Normal","Muy baja","Normal","Normal","Alta",6
+"Baja","Alta","Normal","Muy baja","Muy baja","Alta","Alta","Normal","Muy baja","Baja",5
+"Muy baja","Normal","Baja","Muy baja","Baja","Normal","Normal","Alta","Normal","Muy alta",6
+"Muy baja","Muy baja","Muy alta","Muy alta","Baja","Alta","Alta","Normal","Muy baja","Normal",6
+"Baja","Normal","Alta","Muy baja","Muy baja","Baja","Muy baja","Baja","Baja","Muy alta",6
+"Normal","Muy baja","Muy alta","Muy baja","Baja","Normal","Muy baja","Baja","Normal","Alta",6
+"Muy baja","Alta","Baja","Normal","Baja","Baja","Muy baja","Alta","Baja","Muy alta",6
+"Baja","Alta","Baja","Muy baja","Normal","Baja","Muy baja","Normal","Normal","Alta",6
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta","Baja","Alta",5
+"Baja","Baja","Normal","Muy baja","Muy baja","Baja","Baja","Normal","Baja","Muy alta",6
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Alta","Muy baja","Alta","Baja","Alta",5
+"Muy baja","Alta","Baja","Muy baja","Muy baja","Baja","Muy baja","Alta","Muy baja","Muy alta",5
+"Muy baja","Baja","Normal","Muy baja","Baja","Alta","Alta","Normal","Baja","Baja",5
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Muy baja","Baja","Alta","Alta",7
+"Baja","Baja","Alta","Muy baja","Muy baja","Normal","Baja","Baja","Alta","Alta",6
+"Baja","Muy baja","Alta","Muy baja","Muy baja","Alta","Baja","Normal","Alta","Alta",6
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Normal","Muy baja","Alta","Normal","Alta",6
+"Baja","Alta","Normal","Muy baja","Muy baja","Alta","Alta","Baja","Normal","Muy alta",6
+"Baja","Alta","Baja","Alta","Baja","Alta","Normal","Baja","Baja","Muy baja",5
+"Muy baja","Normal","Baja","Muy baja","Baja","Alta","Muy baja","Normal","Alta","Alta",6
+"Muy baja","Alta","Baja","Muy baja","Baja","Normal","Muy baja","Muy alta","Baja","Alta",6
+"Muy baja","Normal","Baja","Muy baja","Baja","Alta","Muy baja","Normal","Normal","Alta",6
+"Baja","Alta","Muy baja","Muy baja","Muy baja","Alta","Muy baja","Normal","Alta","Baja",6
+"Muy baja","Normal","Muy baja","Muy baja","Baja","Alta","Muy baja","Alta","Baja","Normal",5
+"Muy baja","Normal","Baja","Muy baja","Muy baja","Muy alta","Muy baja","Alta","Normal","Alta",6
+"Muy baja","Normal","Baja","Muy baja","Baja","Alta","Muy baja","Normal","Normal","Alta",6
+"Muy baja","Alta","Baja","Muy baja","Baja","Alta","Muy baja","Alta","Normal","Normal",5
+"Muy baja","Muy baja","Alta","Baja","Muy baja","Normal","Baja","Normal","Normal","Alta",6
