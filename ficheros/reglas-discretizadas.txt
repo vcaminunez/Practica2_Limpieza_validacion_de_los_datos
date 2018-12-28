@@ -1,0 +1,257 @@
+
+Call:
+C5.0.default(x = xtrain, y = ytrain, rules = TRUE)
+
+
+C5.0 [Release 2.07 GPL Edition]  	Fri Dec 28 15:40:32 2018
+-------------------------------
+
+Class specified by attribute `outcome'
+
+Read 1279 cases (11 attributes) from undefined.data
+
+Rules:
+
+Rule 1: (14, lift 7.1)
+	volatile.acidity <= 0.39
+	citric.acid > 0.34
+	citric.acid <= 0.47
+	sulphates > 0.73
+	alcohol > 10.7
+	alcohol <= 11.2
+	->  class Alta  [0.938]
+
+Rule 2: (13, lift 7.1)
+	volatile.acidity <= 0.51
+	citric.acid <= 0.64
+	total.sulfur.dioxide <= 17
+	pH <= 3.28
+	sulphates > 0.56
+	sulphates <= 0.66
+	alcohol > 10.4
+	->  class Alta  [0.933]
+
+Rule 3: (8, lift 6.8)
+	volatile.acidity <= 0.51
+	total.sulfur.dioxide <= 17
+	density <= 0.99495
+	pH <= 3.28
+	sulphates > 0.51
+	->  class Alta  [0.900]
+
+Rule 4: (8, lift 6.8)
+	volatile.acidity <= 0.41
+	total.sulfur.dioxide <= 19
+	pH > 3.28
+	sulphates > 0.54
+	alcohol > 11.5
+	->  class Alta  [0.900]
+
+Rule 5: (8, lift 6.8)
+	density <= 0.99459
+	sulphates > 0.67
+	sulphates <= 0.74
+	alcohol > 12
+	->  class Alta  [0.900]
+
+Rule 6: (6, lift 6.6)
+	volatile.acidity > 0.21
+	volatile.acidity <= 0.39
+	density <= 0.9948
+	sulphates > 0.67
+	alcohol <= 11.6
+	->  class Alta  [0.875]
+
+Rule 7: (55/7, lift 6.5)
+	fixed.acidity <= 12.2
+	free.sulfur.dioxide <= 18
+	sulphates > 0.67
+	alcohol > 11.6
+	->  class Alta  [0.860]
+
+Rule 8: (5, lift 6.5)
+	volatile.acidity > 0.41
+	total.sulfur.dioxide <= 19
+	sulphates > 0.62
+	sulphates <= 0.67
+	alcohol > 11.5
+	->  class Alta  [0.857]
+
+Rule 9: (5, lift 6.5)
+	volatile.acidity <= 0.39
+	chlorides > 0.09
+	sulphates > 0.73
+	alcohol > 10.4
+	alcohol <= 11.2
+	->  class Alta  [0.857]
+
+Rule 10: (5, lift 6.5)
+	citric.acid > 0.34
+	sulphates > 0.73
+	alcohol > 11.1
+	alcohol <= 11.2
+	->  class Alta  [0.857]
+
+Rule 11: (11/1, lift 6.4)
+	volatile.acidity > 0.21
+	volatile.acidity <= 0.39
+	chlorides <= 0.06
+	sulphates > 0.67
+	alcohol > 10.4
+	alcohol <= 11.6
+	->  class Alta  [0.846]
+
+Rule 12: (17/2, lift 6.4)
+	fixed.acidity <= 12.2
+	density > 0.99459
+	sulphates > 0.67
+	alcohol > 12
+	->  class Alta  [0.842]
+
+Rule 13: (4, lift 6.3)
+	volatile.acidity > 0.45
+	citric.acid > 0.56
+	sulphates > 0.67
+	alcohol > 10.4
+	alcohol <= 11.6
+	->  class Alta  [0.833]
+
+Rule 14: (140/102, lift 2.1)
+	sulphates > 0.83
+	->  class Alta  [0.275]
+
+Rule 15: (3, lift 19.3)
+	volatile.acidity > 0.84
+	total.sulfur.dioxide <= 11
+	alcohol > 10.4
+	->  class Baja  [0.800]
+
+Rule 16: (18/9, lift 12.1)
+	volatile.acidity > 0.84
+	citric.acid <= 0.11
+	sulphates <= 0.67
+	alcohol > 10.4
+	->  class Baja  [0.500]
+
+Rule 17: (112/3, lift 1.2)
+	volatile.acidity > 0.39
+	citric.acid <= 0.56
+	pH <= 3.33
+	sulphates > 0.67
+	alcohol <= 11.6
+	->  class Normal  [0.965]
+
+Rule 18: (166/5, lift 1.2)
+	volatile.acidity > 0.51
+	pH <= 3.28
+	sulphates <= 0.67
+	->  class Normal  [0.964]
+
+Rule 19: (42/1, lift 1.2)
+	volatile.acidity <= 0.84
+	pH > 3.28
+	sulphates <= 0.54
+	alcohol > 10.4
+	->  class Normal  [0.955]
+
+Rule 20: (481/21, lift 1.2)
+	volatile.acidity <= 0.855
+	alcohol <= 9.8
+	->  class Normal  [0.954]
+
+Rule 21: (611/31, lift 1.1)
+	fixed.acidity <= 11.5
+	volatile.acidity <= 0.75
+	alcohol <= 10.4
+	->  class Normal  [0.948]
+
+Rule 22: (370/19, lift 1.1)
+	volatile.acidity <= 0.815
+	total.sulfur.dioxide > 19
+	pH > 3.28
+	sulphates <= 0.67
+	->  class Normal  [0.946]
+
+Rule 23: (77/4, lift 1.1)
+	fixed.acidity <= 7.3
+	volatile.acidity > 0.39
+	sulphates > 0.67
+	alcohol <= 11.6
+	->  class Normal  [0.937]
+
+Rule 24: (230/15, lift 1.1)
+	volatile.acidity <= 0.51
+	free.sulfur.dioxide <= 32
+	total.sulfur.dioxide > 17
+	sulphates <= 0.67
+	->  class Normal  [0.931]
+
+Rule 25: (578/46, lift 1.1)
+	chlorides > 0.06
+	chlorides <= 0.09
+	alcohol <= 10.7
+	->  class Normal  [0.919]
+
+Rule 26: (179/14, lift 1.1)
+	free.sulfur.dioxide > 18
+	density <= 0.99668
+	alcohol <= 12
+	->  class Normal  [0.917]
+
+Rule 27: (649/54, lift 1.1)
+	citric.acid <= 0.34
+	chlorides > 0.06
+	density > 0.9948
+	alcohol <= 11.6
+	->  class Normal  [0.916]
+
+Rule 28: (72/6, lift 1.1)
+	pH <= 3.28
+	sulphates <= 0.51
+	->  class Normal  [0.905]
+
+Rule 29: (535/57, lift 1.1)
+	volatile.acidity > 0.41
+	sulphates <= 0.62
+	->  class Normal  [0.892]
+
+Rule 30: (843/97, lift 1.1)
+	density > 0.9948
+	sulphates <= 0.73
+	->  class Normal  [0.884]
+
+Default class: Normal
+
+
+Evaluation on training data (1279 cases):
+
+	        Rules     
+	  ----------------
+	    No      Errors
+
+	    30  128(10.0%)   <<
+
+
+	   (a)   (b)   (c)    <-classified as
+	  ----  ----  ----
+	   106          63    (a): class Alta
+	           2    51    (b): class Baja
+	    13     1  1043    (c): class Normal
+
+
+	Attribute usage:
+
+	 95.07%	sulphates
+	 87.65%	alcohol
+	 85.22%	volatile.acidity
+	 79.67%	density
+	 64.50%	chlorides
+	 57.78%	citric.acid
+	 55.90%	pH
+	 55.59%	fixed.acidity
+	 38.70%	total.sulfur.dioxide
+	 33.70%	free.sulfur.dioxide
+
+
+Time: 0.0 secs
+
