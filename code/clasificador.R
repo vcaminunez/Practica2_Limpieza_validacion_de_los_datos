@@ -1,4 +1,4 @@
-#librer韆s
+#librer铆as
 library(C50)
 library(plyr)
 dir <- "C:/Users/victor/Dropbox/uoc/semestre2/tipologia y ciclo de vida de los datos/practica2"
@@ -22,14 +22,14 @@ ytest  <- data[-tindex,11]
 # ENTRENAMOS EL MODELO CON LOS DATOS DE ENTRENAMIENTO
 model <- C50::C5.0(xtrain, ytrain,rules = TRUE) 
 
-# Aproximaci髇 del error y las reglas de clasificaci髇
+# Aproximaci贸n del error y las reglas de clasificaci贸n
 summary(model)
 
 sink("reglas-discretizadas.txt")
 print(summary(model))
 sink()
 
-# predecir las calidades de grupo de comprobaci髇 de calidad
+# predecir las calidades de grupo de comprobaci贸n de calidad
 
 p1 <- predict(model, xtest, type="class")
 
@@ -43,7 +43,7 @@ print(error)
 table(ytest, Predicho =p1)
 
 
-#validaci髇 cruzada con k = 10
+#validaci贸n cruzada con k = 10
 #calculamos el modelo utilizando 9 de las 10 conjuntos para entrenar y el restante para evaluar
 #se calcula el error de cada modelo y se suman todos los errores
 conjuntos <- split(data, cut(sample(1:nrow(data)),10))
