@@ -1,0 +1,11 @@
+name,parent,value
+Origin,,
+inside job,Origin,1
+hacked,Origin,2
+lost / stolen device or media,Origin,3
+lost / stolen device or media,Origin,4
+poor security,Origin,5
+accidentally published,Origin,6
+hacked,Origin,7
+inside job,Origin,8
+lost / stolen device or media,Origin,9
